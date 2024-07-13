@@ -10,28 +10,34 @@
     <div class="container">
       <h1>Crypto Win Rate Scanner</h1>
       <form id="csvUploadForm">
-        <label for="min-win-rate">Minimum Win Rate:</label>
-        <input type="number" id="min-win-rate" name="minWinRate" required />
-
-        <label for="min-projects">Minimum Projects:</label>
-        <input type="number" id="min-projects" name="minProjects" required />
-
-        <label for="roi">ROI:</label>
-        <input type="number" id="roi" name="roi" step="0.01" required />
-
-        <label for="helius-api">Helius API:</label>
-        <input type="text" id="helius-api" name="heliusApi" required />
-
-        <label for="csvFile" class="file-upload-label">
-          <input
-            type="file"
-            id="csvFile"
-            name="csvFile"
-            accept=".csv"
-            required
-          />
-          Upload
-        </label>
+        <div class="inner">
+          <label for="min-win-rate">Minimum Win Rate:</label>
+          <input type="number" id="min-win-rate" name="minWinRate" required />
+        </div>
+        <div class="inner">
+          <label for="min-projects">Minimum Projects:</label>
+          <input type="number" id="min-projects" name="minProjects" required />
+        </div>
+        <div class="inner">
+          <label for="roi">ROI:</label>
+          <input type="number" id="roi" name="roi" step="0.01" required />
+        </div>
+        <div class="inner">
+          <label for="helius-api">Helius API:</label>
+          <input type="text" id="helius-api" name="heliusApi" required />
+        </div>
+        <div class="inner">
+          <label for="csvFile" class="file-upload-label">
+            <input
+              type="file"
+              id="csvFile"
+              name="csvFile"
+              accept=".csv"
+              required
+            />
+            Upload
+          </label>
+        </div>
 
         <button type="submit">Submit</button>
       </form>

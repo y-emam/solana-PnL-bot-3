@@ -9,6 +9,8 @@ const socketIo = require("socket.io");
 const { main } = require("./index2");
 const { master } = require("./master_process");
 
+require("dotenv").config();
+
 const port = 3000;
 
 app.use(express.json());
@@ -87,9 +89,20 @@ app.post("/win-rate", upload.single("file"), async (req, res) => {
     fs.unlinkSync(filePath);
   }
 
+  const minWinRate = req.body.minWinRate;
+  const minProjects = req.body.minProjects;
+  const roi = req.body.roi;
+  const heliusApi = req.body.heliusApi;
+
+  process.env.WINRATE = minWinRate;
+  process.env.TOTALTOKEN = minProjects;
+  process.env.ROI = roi;
+  process.env.HELIUS_KEY = heliusApi;
+
   // call master_process main
+  console.log(process.env.HELIUS_KEY);
   console.log("Started the master process");
-  await master(io);
+  await master(minWinRate, minProjects, roi, heliusApi);
   console.log("Finished the master process");
 
   res.send("Processed all wallets");

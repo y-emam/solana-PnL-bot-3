@@ -1,8 +1,3 @@
-stderr: Error executing index.js: Error: Command failed: node index.js 
-^C
-Error processing wallet : Error: Command failed: node index.js 
-^C
-
 stdout: Processing wallet (group 29): J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
 stdout: Processing wallet address: J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
 {
@@ -59,13 +54,6 @@ stdout: Processing wallet address: J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
       sp: -1
     },
     {
-      timestamp: 1718668140,
-      token_amount: 17358.427796,
-      amount: 121.160356314,
-      usdBalance: 17366.53158790033,
-      sp: 1
-    },
-    {
       timestamp: 1718667000,
       token_amount: 17411.119979,
       amount: 121.648744211,
@@ -81,11 +69,19 @@ stdout: Processing wallet address: J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
     }
   ]
 }
-{ DORAE: 5911.4868319145335, USDC: -119061.04762200444 }
-Total Transaction: 10
+{ DORAE: 5911.4868319145335, USDC: -50491.069507538574 }
+Total Transaction: 9
 Win Rate: 0.0% (0/2)
-Total PnL: -113149.56$
+Total PnL: -44579.58$
 
 Processing wallet (group 29): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
 Processing completed for group 29.
 

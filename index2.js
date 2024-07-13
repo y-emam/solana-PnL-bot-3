@@ -284,7 +284,8 @@ const reloadEnv = () => {
   dotenv.config({ path: ".env" });
 };
 const getTransactions = async (wallet, time_limit) => {
-  let base_url = `https://api.helius.xyz/v0/addresses/${wallet}/transactions?api-key=${process.env.HELIUS_KEY}`;
+  console.log("Here");
+  // let base_url = `https://api.helius.xyz/v0/addresses/${wallet}/transactions?api-key=${process.env.HELIUS_KEY}`;
   let url = base_url;
   let lastSignature = null;
 

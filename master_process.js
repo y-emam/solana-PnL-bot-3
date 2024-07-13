@@ -12,7 +12,7 @@ const checkCompletion = () => {
   }
 };
 
-const runGroupScript = async (i, socket) => {
+const runGroupScript = async (i) => {
   const groupScript = `node process_group_${i}.js > process_group_${i}.log 2>&1`;
 
   try {
@@ -30,10 +30,10 @@ const runGroupScript = async (i, socket) => {
   }
 };
 
-const master = async (socket) => {
+const master = async () => {
   const promises = [];
   for (let i = 0; i < totalGroups; i++) {
-    promises.push(runGroupScript(i, socket));
+    promises.push(runGroupScript(i));
   }
   await Promise.all(promises);
 };

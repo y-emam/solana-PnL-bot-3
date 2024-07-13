@@ -138,13 +138,6 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       sp: 1
     },
     {
-      timestamp: 1718789280,
-      token_amount: 300000,
-      amount: 0.473354126,
-      usdBalance: 65.38073299158768,
-      sp: 1
-    },
-    {
       timestamp: 1718625240,
       token_amount: 769323.678658,
       amount: 1.225882309,
@@ -481,14 +474,23 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       sp: -1
     }
   ],
-  PILOT: [
+  MOKA: [
     {
-      timestamp: 1718882700,
-      token_amount: 1011288.02318,
-      amount: 0.49,
-      usdBalance: 68.77658080790195,
+      timestamp: 1718881020,
+      token_amount: 18721367.926233,
+      amount: 0.563206584,
+      usdBalance: 78.03896561584966,
       sp: -1
     },
+    {
+      timestamp: 1718864520,
+      token_amount: 45979.748551,
+      amount: 2,
+      usdBalance: 272.1548834052317,
+      sp: -1
+    }
+  ],
+  PILOT: [
     {
       timestamp: 1718880060,
       token_amount: 920574.307228,
@@ -515,22 +517,6 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       token_amount: 5368988.604726,
       amount: 1.2,
       usdBalance: 163.0600473797715,
-      sp: -1
-    }
-  ],
-  MOKA: [
-    {
-      timestamp: 1718881020,
-      token_amount: 18721367.926233,
-      amount: 0.563206584,
-      usdBalance: 78.03896561584966,
-      sp: -1
-    },
-    {
-      timestamp: 1718864520,
-      token_amount: 45979.748551,
-      amount: 2,
-      usdBalance: 272.1548834052317,
       sp: -1
     }
   ],
@@ -575,13 +561,6 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       amount: 1,
       usdBalance: 143.87775283614272,
       sp: -1
-    },
-    {
-      timestamp: 1718664840,
-      token_amount: 241226.318597066,
-      amount: 0.5,
-      usdBalance: 71.78359718536083,
-      sp: -1
     }
   ],
   DOXCAT: [
@@ -599,22 +578,6 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       token_amount: 2441761.830785,
       amount: 1,
       usdBalance: 144.39874745494598,
-      sp: -1
-    }
-  ],
-  TOPG: [
-    {
-      timestamp: 1718486100,
-      token_amount: 56008.297219,
-      amount: 1.352920702,
-      usdBalance: 195.67479967192,
-      sp: 1
-    },
-    {
-      timestamp: 1718413260,
-      token_amount: 396008.297219,
-      amount: 18,
-      usdBalance: 2587.903473203464,
       sp: -1
     }
   ],
@@ -657,6 +620,15 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
       sp: -1
     }
   ],
+  TOPG: [
+    {
+      timestamp: 1718413260,
+      token_amount: 396008.297219,
+      amount: 18,
+      usdBalance: 2587.903473203464,
+      sp: -1
+    }
+  ],
   SUBO: [
     {
       timestamp: 1718404860,
@@ -692,7 +664,7 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
   ANGLE: -284.2730808043759,
   BILLY: 4727.109082483394,
   MOLLY: -428.0096267751126,
-  Gireumee: 657.9936360965238,
+  Gireumee: 592.6129031049361,
   SOLLY: -1486.356048018844,
   ORC: 981.4475241129359,
   APU: 506.07645181020143,
@@ -714,23 +686,23 @@ stdout: Processing wallet address: 6YxEPPaioMzjuMASZFLQbmieKygRT31XW4PStjTeUdXn
   USDC: 4968.513357912298,
   cute: -66.0601629387822,
   Moka: -415.65201455795557,
-  PILOT: -321.90417925353955,
   MOKA: -350.1938490210814,
+  PILOT: -253.1275984456376,
   PAWTUS: 194.59059574173952,
   HOPPY: 490.2920695469993,
   DELREY: -69.05618926007372,
-  BOOP: -215.66135002150352,
+  BOOP: -143.8777528361427,
   DOXCAT: -215.72031454506617,
   DOOMER: -144.39874745494598,
-  TOPG: -170.3379023829191,
   SOLDY: -318.5780342296553,
   WUDAN: -1723.2851204412832,
+  TOPG: -2587.903473203464,
   SUBO: -2856.19373391358,
   SAITAMA: 956.3670103594442
 }
-Total Transaction: 85
-Win Rate: 11.6% (5/43)
-Total PnL: 792.38$
+Total Transaction: 81
+Win Rate: 14.0% (6/43)
+Total PnL: -1550.00$
 
 Processing wallet (group 23): 
 stdout: Processing wallet address: undefined

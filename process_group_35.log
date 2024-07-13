@@ -1,8 +1,3 @@
-stderr: Error executing index.js: Error: Command failed: node index.js 
-^C
-Error processing wallet : Error: Command failed: node index.js 
-^C
-
 stdout: Processing wallet (group 35): m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
 stdout: Processing wallet address: m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
 {
@@ -58,13 +53,6 @@ stdout: Processing wallet address: m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
       amount: 32.375355076,
       usdBalance: 4145.920045213887,
       sp: 1
-    },
-    {
-      timestamp: 1719241800,
-      token_amount: 579431.870598,
-      amount: 60,
-      usdBalance: 7675.05565051114,
-      sp: -1
     }
   ],
   K: [
@@ -142,7 +130,7 @@ stdout: Processing wallet address: m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
   '$SCYLLA': -698.2845086847414,
   KAIKEN: -841.2844554282002,
   BIDENICA: -687.0940508739027,
-  '$WATER': -3529.1356052972524,
+  '$WATER': 4145.920045213887,
   K: -673.13067281742,
   BTS: -1353.6179143692566,
   Kendu: -742.1918540852604,
@@ -150,10 +138,18 @@ stdout: Processing wallet address: m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
   please: -741.0417347100483,
   NOTOPG: -1111.3247878664774
 }
-Total Transaction: 15
+Total Transaction: 14
 Win Rate: 0.0% (0/12)
-Total PnL: -12517.37$
+Total PnL: -4842.32$
 
 Processing wallet (group 35): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
 Processing completed for group 35.
 

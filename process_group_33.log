@@ -8,7 +8,7 @@ Data appended to final.csv.
       timestamp: 1720552500,
       token_amount: 463522.573197,
       amount: 0.088921664,
-      usdBalance: 14.713330746402896,
+      usdBalance: 12.312273192869172,
       sp: 1
     }
   ],
@@ -17,14 +17,14 @@ Data appended to final.csv.
       timestamp: 1720547940,
       token_amount: 460658.169764,
       amount: 0.113823199,
-      usdBalance: 18.83363736311362,
+      usdBalance: 15.760190022695856,
       sp: 1
     },
     {
       timestamp: 1720547160,
       token_amount: 460658.169764,
       amount: 0.198,
-      usdBalance: 32.76186428301402,
+      usdBalance: 27.41547990136685,
       sp: -1
     }
   ],
@@ -33,14 +33,14 @@ Data appended to final.csv.
       timestamp: 1720546980,
       token_amount: 978775.28139,
       amount: 0.133186358,
-      usdBalance: 22.03754234921676,
+      usdBalance: 18.441252125683082,
       sp: 1
     },
     {
       timestamp: 1720545780,
       token_amount: 978775.28139,
       amount: 0.495,
-      usdBalance: 81.90466070753504,
+      usdBalance: 68.53869975341712,
       sp: -1
     }
   ],
@@ -49,14 +49,14 @@ Data appended to final.csv.
       timestamp: 1720545000,
       token_amount: 1659849.283985,
       amount: 0.577723307,
-      usdBalance: 95.5923867528689,
+      usdBalance: 79.99273591722066,
       sp: 1
     },
     {
       timestamp: 1720533780,
       token_amount: 1659849.283985,
       amount: 1.782,
-      usdBalance: 294.85677854712617,
+      usdBalance: 246.73931911230167,
       sp: -1
     }
   ],
@@ -65,14 +65,14 @@ Data appended to final.csv.
       timestamp: 1720533660,
       token_amount: 323155.409536145,
       amount: 1.820149618,
-      usdBalance: 301.16916545300916,
+      usdBalance: 252.0215922715129,
       sp: 1
     },
     {
       timestamp: 1720362420,
       token_amount: 323155.409536145,
       amount: 0.792,
-      usdBalance: 131.04745713205608,
+      usdBalance: 107.99752063922179,
       sp: -1
     },
     {
@@ -130,14 +130,14 @@ Data appended to final.csv.
       timestamp: 1720441800,
       token_amount: 208127.350698,
       amount: 0.013772492,
-      usdBalance: 2.2788510795095775,
+      usdBalance: 1.9436926251823827,
       sp: 1
     },
     {
       timestamp: 1720432800,
       token_amount: 208127.350698,
       amount: 0.0792,
-      usdBalance: 13.10474571320561,
+      usdBalance: 11.054073415621684,
       sp: -1
     }
   ],
@@ -146,21 +146,21 @@ Data appended to final.csv.
       timestamp: 1720360980,
       token_amount: 1393407.176139,
       amount: 0.124466626,
-      usdBalance: 20.594740953417496,
+      usdBalance: 16.96811837164031,
       sp: 1
     },
     {
       timestamp: 1720359960,
       token_amount: 1233461.617447,
       amount: 0.297,
-      usdBalance: 49.14279642452102,
+      usdBalance: 40.74243522181316,
       sp: -1
     },
     {
       timestamp: 1720359840,
       token_amount: 159945.558692,
       amount: 0.0495,
-      usdBalance: 8.190466070753505,
+      usdBalance: 6.780315682777275,
       sp: -1
     }
   ],
@@ -169,14 +169,14 @@ Data appended to final.csv.
       timestamp: 1720359960,
       token_amount: 253642.109624,
       amount: 0.273964839,
-      usdBalance: 45.33130744260498,
+      usdBalance: 37.58247375761607,
       sp: 1
     },
     {
       timestamp: 1720358040,
       token_amount: 253642.109624,
       amount: 0.495,
-      usdBalance: 81.90466070753504,
+      usdBalance: 68.62592074036462,
       sp: -1
     }
   ],
@@ -185,21 +185,21 @@ Data appended to final.csv.
       timestamp: 1720300380,
       token_amount: 2015487.775947,
       amount: 0.534226459,
-      usdBalance: 88.39522599067249,
+      usdBalance: 76.59804700900597,
       sp: 1
     },
     {
       timestamp: 1720292820,
       token_amount: 253503.823492,
       amount: 0.099,
-      usdBalance: 16.38093214150701,
+      usdBalance: 14.087617107094387,
       sp: -1
     },
     {
       timestamp: 1720290720,
       token_amount: 1761983.952455,
       amount: 0.792,
-      usdBalance: 131.04745713205608,
+      usdBalance: 112.47330368663368,
       sp: -1
     }
   ],
@@ -208,14 +208,14 @@ Data appended to final.csv.
       timestamp: 1720292760,
       token_amount: 54947.239413,
       amount: 0.15567445,
-      usdBalance: 25.758511127438645,
+      usdBalance: 22.14787623660386,
       sp: 1
     },
     {
       timestamp: 1720291680,
       token_amount: 54947.239413,
       amount: 0.1881,
-      usdBalance: 31.123771068863316,
+      usdBalance: 26.77910971392017,
       sp: -1
     }
   ],
@@ -224,35 +224,35 @@ Data appended to final.csv.
       timestamp: 1720288740,
       token_amount: 152250.665471,
       amount: 0.048286131,
-      usdBalance: 7.989614497847657,
+      usdBalance: 6.876668609230173,
       sp: 1
     },
     {
       timestamp: 1720288200,
       token_amount: 36955.991346,
       amount: 0.0495,
-      usdBalance: 8.190466070753505,
+      usdBalance: 7.045827588706614,
       sp: -1
     },
     {
       timestamp: 1720288080,
       token_amount: 115294.674125,
       amount: 0.198,
-      usdBalance: 32.76186428301402,
+      usdBalance: 28.159080668952353,
       sp: -1
     },
     {
       timestamp: 1720287780,
       token_amount: 103644.124519,
       amount: 0.233278152,
-      usdBalance: 38.59912705058745,
+      usdBalance: 33.270891895608024,
       sp: 1
     },
     {
       timestamp: 1720287720,
       token_amount: 103644.124519,
       amount: 0.198,
-      usdBalance: 32.76186428301402,
+      usdBalance: 28.229780047391603,
       sp: -1
     }
   ],
@@ -261,14 +261,14 @@ Data appended to final.csv.
       timestamp: 1720287660,
       token_amount: 4593659.469266,
       amount: 0.167719379,
-      usdBalance: 27.751512790047432,
+      usdBalance: 23.904060062775248,
       sp: 1
     },
     {
       timestamp: 1720287240,
       token_amount: 4593659.469266,
       amount: 0.396,
-      usdBalance: 65.52372856602804,
+      usdBalance: 56.53235186592506,
       sp: -1
     }
   ],
@@ -277,14 +277,14 @@ Data appended to final.csv.
       timestamp: 1720287120,
       token_amount: 894213.498212,
       amount: 0.256622702,
-      usdBalance: 42.46180876194116,
+      usdBalance: 36.572832736007804,
       sp: 1
     },
     {
       timestamp: 1720285260,
       token_amount: 894213.498212,
       amount: 0.495,
-      usdBalance: 81.90466070753504,
+      usdBalance: 70.41586358763868,
       sp: -1
     }
   ],
@@ -293,14 +293,14 @@ Data appended to final.csv.
       timestamp: 1720269600,
       token_amount: 432069.924508,
       amount: 0.012869999,
-      usdBalance: 2.12952101293195,
+      usdBalance: 1.782662294275948,
       sp: 1
     },
     {
       timestamp: 1720268880,
       token_amount: 432069.924508,
       amount: 0.0297,
-      usdBalance: 4.914279642452103,
+      usdBalance: 4.116971139396278,
       sp: -1
     }
   ],
@@ -309,14 +309,14 @@ Data appended to final.csv.
       timestamp: 1720268880,
       token_amount: 86056.859879,
       amount: 0.032670347,
-      usdBalance: 5.4057650226917895,
+      usdBalance: 4.5287163539751445,
       sp: 1
     },
     {
       timestamp: 1720267920,
       token_amount: 86056.859879,
       amount: 0.0495,
-      usdBalance: 8.190466070753505,
+      usdBalance: 6.875990039365632,
       sp: -1
     }
   ],
@@ -325,14 +325,14 @@ Data appended to final.csv.
       timestamp: 1720267740,
       token_amount: 39593.069865405,
       amount: 0.051020863,
-      usdBalance: 8.442114086910362,
+      usdBalance: 7.088777272736085,
       sp: 1
     },
     {
       timestamp: 1720267560,
       token_amount: 39593.069865405,
       amount: 0.0495,
-      usdBalance: 8.190466070753505,
+      usdBalance: 6.876884604439688,
       sp: -1
     }
   ],
@@ -341,14 +341,14 @@ Data appended to final.csv.
       timestamp: 1720267080,
       token_amount: 44643.102165215,
       amount: 0.050746222,
-      usdBalance: 8.396670899190406,
+      usdBalance: 7.045762593925677,
       sp: 1
     },
     {
       timestamp: 1720266720,
       token_amount: 44643.102165215,
       amount: 0.099,
-      usdBalance: 16.38093214150701,
+      usdBalance: 13.748344282566093,
       sp: -1
     }
   ],
@@ -357,28 +357,28 @@ Data appended to final.csv.
       timestamp: 1720266660,
       token_amount: 307264.796390739,
       amount: 0.12450995,
-      usdBalance: 20.601909514064957,
+      usdBalance: 17.287381475456947,
       sp: 1
     },
     {
       timestamp: 1720266600,
       token_amount: 307264.796390739,
       amount: 0.099,
-      usdBalance: 16.38093214150701,
+      usdBalance: 13.721646028190698,
       sp: -1
     },
     {
       timestamp: 1720266180,
       token_amount: 271683.24450247,
       amount: 0.110796872,
-      usdBalance: 18.332889310335737,
+      usdBalance: 15.387074895260529,
       sp: 1
     },
     {
       timestamp: 1720266180,
       token_amount: 271683.24450247,
       amount: 0.099,
-      usdBalance: 16.38093214150701,
+      usdBalance: 13.748767335514602,
       sp: -1
     }
   ],
@@ -387,14 +387,14 @@ Data appended to final.csv.
       timestamp: 1720266480,
       token_amount: 472513.403498,
       amount: 0.100937933,
-      usdBalance: 16.701590211888696,
+      usdBalance: 14.006699153567315,
       sp: 1
     },
     {
       timestamp: 1720266240,
       token_amount: 472513.403498,
       amount: 0.099,
-      usdBalance: 16.38093214150701,
+      usdBalance: 13.731330769347377,
       sp: -1
     }
   ],
@@ -403,14 +403,14 @@ Data appended to final.csv.
       timestamp: 1720265940,
       token_amount: 706568.254764,
       amount: 0.148537604,
-      usdBalance: 24.577620319050908,
+      usdBalance: 20.680041733079566,
       sp: 1
     },
     {
       timestamp: 1720265640,
       token_amount: 706568.254764,
       amount: 0.297,
-      usdBalance: 49.14279642452102,
+      usdBalance: 41.34122710694934,
       sp: -1
     }
   ],
@@ -419,14 +419,14 @@ Data appended to final.csv.
       timestamp: 1720265520,
       token_amount: 594541.740066,
       amount: 0.308352526,
-      usdBalance: 51.021230344124,
+      usdBalance: 42.974007169552586,
       sp: 1
     },
     {
       timestamp: 1720265460,
       token_amount: 594541.740066,
       amount: 0.297,
-      usdBalance: 49.14279642452102,
+      usdBalance: 41.36800185516176,
       sp: -1
     }
   ],
@@ -740,6 +740,13 @@ Data appended to final.csv.
       token_amount: 5978978247147.91,
       amount: 4.916003299,
       usdBalance: 726.7067526771095,
+      sp: 1
+    },
+    {
+      timestamp: 1719838860,
+      token_amount: 12661244289477,
+      amount: 9.977015375,
+      usdBalance: 1475.0470040112705,
       sp: 1
     },
     {
@@ -1373,7 +1380,7 @@ Data appended to final.csv.
   ALOHA: -189.45873144816667,
   PRESI: -3114.842463965688,
   sweeney: -117.23323168440163,
-  CHWY: -943.3042077702463,
+  CHWY: -2186.533567865827,
   FUACK: -757.9911031018069,
   ZAZA: -11.367798334208487,
   SLEEPY: -216.98689271387957,
@@ -1403,9 +1410,9 @@ Data appended to final.csv.
   '$1stAmend': -20.832991784827584,
   DORAEMOON: -6.68159004036952
 }
-Total Transaction: 173
+Total Transaction: 174
 Win Rate: 9.7% (6/62)
-Total PnL: -16171.07$
+Total PnL: -17414.30$
 
 Processing wallet (group 33): 
 stdout: Processing wallet address: undefined
