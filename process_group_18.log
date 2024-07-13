@@ -1,0 +1,136 @@
+stdout: Processing wallet (group 18): 9B3jrooWGbJVLnSH4Z9bQ8u4Uo61LLnDdhFDbbN6YFu2
+stdout: Processing wallet address: 9B3jrooWGbJVLnSH4Z9bQ8u4Uo61LLnDdhFDbbN6YFu2
+final.csv created and data added.
+{
+  BBODEN: [
+    {
+      timestamp: 1720537920,
+      token_amount: 1112634.920000001,
+      amount: 0.066601496,
+      usdBalance: 9.221777651459417,
+      sp: 1
+    },
+    {
+      timestamp: 1719540240,
+      token_amount: 6463232.14259505,
+      amount: 6,
+      usdBalance: 891.767617485292,
+      sp: -1
+    }
+  ],
+  '$DAVIDO': [
+    {
+      timestamp: 1720537800,
+      token_amount: 35599.843386,
+      amount: 0.041082898,
+      usdBalance: 5.688421032368204,
+      sp: 1
+    }
+  ],
+  PRESI: [
+    {
+      timestamp: 1720315260,
+      token_amount: 11412123.4228,
+      amount: 4.390944397,
+      usdBalance: 618.5576160791884,
+      sp: 1
+    },
+    {
+      timestamp: 1720011240,
+      token_amount: 1574509.886259484,
+      amount: 7,
+      usdBalance: 989.8997014153574,
+      sp: -1
+    }
+  ],
+  SC: [
+    {
+      timestamp: 1719540180,
+      token_amount: 83000,
+      amount: 5.758139822,
+      usdBalance: 856.4055497819386,
+      sp: 1
+    },
+    {
+      timestamp: 1719482460,
+      token_amount: 1584883.63,
+      amount: 126.781275822,
+      usdBalance: 17561.13738137658,
+      sp: 1
+    },
+    {
+      timestamp: 1719358320,
+      token_amount: 3169767.271712936,
+      amount: 46,
+      usdBalance: 6275.611091466657,
+      sp: -1
+    }
+  ],
+  RNT: [
+    {
+      timestamp: 1719482700,
+      token_amount: 2001483.990183,
+      amount: 119,
+      usdBalance: 16465.272389847047,
+      sp: -1
+    },
+    {
+      timestamp: 1718327940,
+      token_amount: 206702.75584,
+      amount: 20.469139285,
+      usdBalance: 3016.1770262863624,
+      sp: 1
+    }
+  ],
+  GENIE: [
+    {
+      timestamp: 1719337080,
+      token_amount: 24772939.516491,
+      amount: 14.492586554,
+      usdBalance: 1998.0238882972008,
+      sp: 1
+    }
+  ],
+  lilpump: [
+    {
+      timestamp: 1718327940,
+      token_amount: 504966.416683,
+      amount: 20.333446,
+      usdBalance: 2996.1822935748482,
+      sp: -1
+    }
+  ]
+}
+{
+  BBODEN: -144.294569873845,
+  '$DAVIDO': 5.688421032368204,
+  PRESI: -371.342085336169,
+  SC: 14951.085055054542,
+  RNT: 1315.7301601955348,
+  GENIE: 1998.0238882972008,
+  lilpump: -2996.1822935748482
+}
+Total Transaction: 12
+Win Rate: 14.3% (1/7)
+Total PnL: 14758.71$
+
+Processing wallet (group 18): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 18): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing completed for group 18.
+

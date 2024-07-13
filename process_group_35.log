@@ -1,0 +1,162 @@
+stdout: Processing wallet (group 35): m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
+stdout: Processing wallet address: m3f98NrnZwc2KLepUY5CSZFw9XipwEKAWSmrNyZXiKf
+{
+  JEET: [
+    {
+      timestamp: 1720710300,
+      token_amount: 9155926.568501,
+      amount: 5,
+      usdBalance: 692.3100985193649,
+      sp: -1
+    }
+  ],
+  ceku: [
+    {
+      timestamp: 1720631160,
+      token_amount: 22019690.54308,
+      amount: 5,
+      usdBalance: 704.3037273934044,
+      sp: -1
+    }
+  ],
+  '$SCYLLA': [
+    {
+      timestamp: 1720351920,
+      token_amount: 11533345.369053,
+      amount: 5,
+      usdBalance: 698.2845086847414,
+      sp: -1
+    }
+  ],
+  KAIKEN: [
+    {
+      timestamp: 1720035480,
+      token_amount: 13482011.714262,
+      amount: 6,
+      usdBalance: 841.2844554282001,
+      sp: -1
+    }
+  ],
+  BIDENICA: [
+    {
+      timestamp: 1719458760,
+      token_amount: 9747662.856178,
+      amount: 5,
+      usdBalance: 687.0940508739027,
+      sp: -1
+    }
+  ],
+  '$WATER': [
+    {
+      timestamp: 1719242040,
+      token_amount: 579431.870598,
+      amount: 32.375355076,
+      usdBalance: 4145.920045213887,
+      sp: 1
+    },
+    {
+      timestamp: 1719241800,
+      token_amount: 579431.870598,
+      amount: 60,
+      usdBalance: 7675.05565051114,
+      sp: -1
+    }
+  ],
+  K: [
+    {
+      timestamp: 1718908860,
+      token_amount: 8258957.396558,
+      amount: 5,
+      usdBalance: 673.13067281742,
+      sp: -1
+    }
+  ],
+  BTS: [
+    {
+      timestamp: 1718890500,
+      token_amount: 7697954.244313,
+      amount: 10,
+      usdBalance: 1353.6179143692566,
+      sp: -1
+    }
+  ],
+  Kendu: [
+    {
+      timestamp: 1718592420,
+      token_amount: 10188275.650824,
+      amount: 5,
+      usdBalance: 742.1918540852603,
+      sp: -1
+    }
+  ],
+  Father: [
+    {
+      timestamp: 1718558520,
+      token_amount: 9135394.697308,
+      amount: 5,
+      usdBalance: 743.6519433081921,
+      sp: -1
+    }
+  ],
+  please: [
+    {
+      timestamp: 1718556540,
+      token_amount: 7333701.211253,
+      amount: 5,
+      usdBalance: 741.0417347100483,
+      sp: -1
+    }
+  ],
+  NOTOPG: [
+    {
+      timestamp: 1718475900,
+      token_amount: 9256712.405317,
+      amount: 2.916291807,
+      usdBalance: 422.23422576901226,
+      sp: 1
+    },
+    {
+      timestamp: 1718475840,
+      token_amount: 9256712.405316,
+      amount: 4.41728009,
+      usdBalance: 639.632707771993,
+      sp: 1
+    },
+    {
+      timestamp: 1718475720,
+      token_amount: 18513424.810633,
+      amount: 10,
+      usdBalance: 1448.794480938348,
+      sp: -1
+    }
+  ]
+}
+{
+  JEET: -692.3100985193649,
+  ceku: -704.3037273934043,
+  '$SCYLLA': -698.2845086847414,
+  KAIKEN: -841.2844554282002,
+  BIDENICA: -687.0940508739027,
+  '$WATER': -3529.1356052972524,
+  K: -673.13067281742,
+  BTS: -1353.6179143692566,
+  Kendu: -742.1918540852604,
+  Father: -743.651943308192,
+  please: -741.0417347100483,
+  NOTOPG: -1111.3247878664774
+}
+Total Transaction: 15
+Win Rate: 0.0% (0/12)
+Total PnL: -12517.37$
+
+Processing wallet (group 35): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing completed for group 35.
+

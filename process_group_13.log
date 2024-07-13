@@ -1,0 +1,1730 @@
+stdout: Processing wallet (group 13): HMN8GusByZJii4uVhPQMpVxrDikBAqsaX8aA8xwZfpMU
+stdout: Processing wallet address: HMN8GusByZJii4uVhPQMpVxrDikBAqsaX8aA8xwZfpMU
+{
+  '19': [
+    {
+      timestamp: 1718245200,
+      token_amount: 148409.548788,
+      amount: 0.074897096,
+      usdBalance: 11.466052757440153,
+      sp: 1
+    },
+    {
+      timestamp: 1718244780,
+      token_amount: 1335685.939087,
+      amount: 0.593678973,
+      usdBalance: 90.61166862322615,
+      sp: 1
+    },
+    {
+      timestamp: 1718244180,
+      token_amount: 1484095.487875,
+      amount: 0.5,
+      usdBalance: 76.14717182545463,
+      sp: -1
+    }
+  ],
+  WIF: [
+    {
+      timestamp: 1720735380,
+      token_amount: 738152.833352,
+      amount: 1.001355022,
+      usdBalance: 173.52897040379068,
+      sp: 1
+    },
+    {
+      timestamp: 1720734720,
+      token_amount: 283363.413731,
+      amount: 0.5,
+      usdBalance: 86.64707650699268,
+      sp: -1
+    },
+    {
+      timestamp: 1720734120,
+      token_amount: 454789.419621,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  el: [
+    {
+      timestamp: 1720491540,
+      token_amount: 732181.731389,
+      amount: 0.2,
+      usdBalance: 34.658830602797075,
+      sp: -1
+    }
+  ],
+  PRESS: [
+    {
+      timestamp: 1720488840,
+      token_amount: 303001.132248,
+      amount: 1.006883338,
+      usdBalance: 174.48699524260434,
+      sp: 1
+    },
+    {
+      timestamp: 1720488300,
+      token_amount: 303001.132248,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  MIMU: [
+    {
+      timestamp: 1720439040,
+      token_amount: 1541239.349909,
+      amount: 1.09495867,
+      usdBalance: 189.7499353029699,
+      sp: 1
+    },
+    {
+      timestamp: 1720437660,
+      token_amount: 1541239.349909,
+      amount: 0.5,
+      usdBalance: 86.64707650699268,
+      sp: -1
+    }
+  ],
+  HERO: [
+    {
+      timestamp: 1720363380,
+      token_amount: 22.758314571,
+      amount: 0.002985018,
+      usdBalance: 0.5172861660415005,
+      sp: 1
+    },
+    {
+      timestamp: 1720363080,
+      token_amount: 22.758314571,
+      amount: 0.003,
+      usdBalance: 0.5198824590419561,
+      sp: -1
+    },
+    {
+      timestamp: 1720081440,
+      token_amount: 50.803650096,
+      amount: 0.009950062,
+      usdBalance: 1.7242875667266413,
+      sp: 1
+    },
+    {
+      timestamp: 1720081380,
+      token_amount: 50.803650096,
+      amount: 0.01,
+      usdBalance: 1.7329415301398536,
+      sp: -1
+    },
+    {
+      timestamp: 1719836040,
+      token_amount: 60.377575417,
+      amount: 0.01981866,
+      usdBalance: 2.9028983469728473,
+      sp: 1
+    },
+    {
+      timestamp: 1719835980,
+      token_amount: 60.377575417,
+      amount: 0.02,
+      usdBalance: 2.931448762406837,
+      sp: -1
+    },
+    {
+      timestamp: 1719824940,
+      token_amount: 13827.59867086,
+      amount: 5.513397221,
+      usdBalance: 812.1437597853239,
+      sp: 1
+    },
+    {
+      timestamp: 1719811320,
+      token_amount: 32264.396898672,
+      amount: 11.683664302,
+      usdBalance: 1731.5577703119873,
+      sp: 1
+    },
+    {
+      timestamp: 1719809520,
+      token_amount: 107547.989662239,
+      amount: 32.051873196,
+      usdBalance: 4715.798123384985,
+      sp: 1
+    },
+    {
+      timestamp: 1719808860,
+      token_amount: 153639.985231771,
+      amount: 30.264706897,
+      usdBalance: 4462.522383278174,
+      sp: 1
+    },
+    {
+      timestamp: 1719807960,
+      token_amount: 307279.970463542,
+      amount: 0.5,
+      usdBalance: 73.83023711185423,
+      sp: -1
+    }
+  ],
+  idk: [
+    {
+      timestamp: 1720345980,
+      token_amount: 1856575.197827,
+      amount: 0.952335748,
+      usdBalance: 165.0342168346002,
+      sp: 1
+    },
+    {
+      timestamp: 1720345920,
+      token_amount: 1856575.197827,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  omw: [
+    {
+      timestamp: 1720335720,
+      token_amount: 1268482.073507,
+      amount: 0.829530234,
+      usdBalance: 143.75273930052307,
+      sp: 1
+    },
+    {
+      timestamp: 1720334820,
+      token_amount: 1268482.073507,
+      amount: 2,
+      usdBalance: 346.5883060279707,
+      sp: -1
+    }
+  ],
+  PEEP: [
+    {
+      timestamp: 1720334400,
+      token_amount: 3207204.526868,
+      amount: 0.998555033,
+      usdBalance: 173.0437486815872,
+      sp: 1
+    },
+    {
+      timestamp: 1720334220,
+      token_amount: 3207204.526868,
+      amount: 1.25,
+      usdBalance: 216.6176912674817,
+      sp: -1
+    }
+  ],
+  Silly: [
+    {
+      timestamp: 1720275960,
+      token_amount: 569060.786303,
+      amount: 0.866596945,
+      usdBalance: 150.17618358828224,
+      sp: 1
+    },
+    {
+      timestamp: 1720275540,
+      token_amount: 569060.786303,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    },
+    {
+      timestamp: 1720274880,
+      token_amount: 943780.067086,
+      amount: 1.914887646,
+      usdBalance: 331.8388327305142,
+      sp: 1
+    },
+    {
+      timestamp: 1720274580,
+      token_amount: 943780.067086,
+      amount: 2,
+      usdBalance: 346.5883060279707,
+      sp: -1
+    },
+    {
+      timestamp: 1720273860,
+      token_amount: 354085.177402,
+      amount: 0.779849099,
+      usdBalance: 135.14328908992462,
+      sp: 1
+    },
+    {
+      timestamp: 1720273500,
+      token_amount: 231547.357696,
+      amount: 0.4,
+      usdBalance: 69.31766120559415,
+      sp: -1
+    },
+    {
+      timestamp: 1720273380,
+      token_amount: 122537.819706,
+      amount: 0.2,
+      usdBalance: 34.658830602797075,
+      sp: -1
+    }
+  ],
+  BUMPY: [
+    {
+      timestamp: 1720252260,
+      token_amount: 96547.950751,
+      amount: 0.18196816,
+      usdBalance: 31.534018162713366,
+      sp: 1
+    },
+    {
+      timestamp: 1720252140,
+      token_amount: 96547.950751,
+      amount: 0.2,
+      usdBalance: 34.658830602797075,
+      sp: -1
+    }
+  ],
+  NGMI: [
+    {
+      timestamp: 1720249200,
+      token_amount: 2463194.563027,
+      amount: 0.858090617,
+      usdBalance: 148.7020866822631,
+      sp: 1
+    },
+    {
+      timestamp: 1720248960,
+      token_amount: 2463194.563027,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  omni: [
+    {
+      timestamp: 1720243860,
+      token_amount: 814829.138776,
+      amount: 0.498761471,
+      usdBalance: 86.43244667295441,
+      sp: 1
+    },
+    {
+      timestamp: 1720243860,
+      token_amount: 814829.138776,
+      amount: 0.5,
+      usdBalance: 86.64707650699268,
+      sp: -1
+    },
+    {
+      timestamp: 1720240920,
+      token_amount: 1209649.931413,
+      amount: 0.815557339,
+      usdBalance: 141.33131829634473,
+      sp: 1
+    },
+    {
+      timestamp: 1720238760,
+      token_amount: 1209649.931413,
+      amount: 0.5,
+      usdBalance: 86.64707650699268,
+      sp: -1
+    }
+  ],
+  chuchu: [
+    {
+      timestamp: 1720012260,
+      token_amount: 587039.850088,
+      amount: 0.959536302,
+      usdBalance: 166.28203074126165,
+      sp: 1
+    },
+    {
+      timestamp: 1720012140,
+      token_amount: 587039.850088,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  dwifkodak: [
+    {
+      timestamp: 1719978000,
+      token_amount: 1561644.550501,
+      amount: 0.727964064,
+      usdBalance: 126.15191589549863,
+      sp: 1
+    },
+    {
+      timestamp: 1719976800,
+      token_amount: 1561644.550501,
+      amount: 1,
+      usdBalance: 173.29415301398535,
+      sp: -1
+    }
+  ],
+  mao: [
+    {
+      timestamp: 1719956760,
+      token_amount: 172215.230935,
+      amount: 0.633658601,
+      usdBalance: 97.20771009707634,
+      sp: 1
+    },
+    {
+      timestamp: 1719955800,
+      token_amount: 172215.230935,
+      amount: 1,
+      usdBalance: 152.88397945934358,
+      sp: -1
+    }
+  ],
+  JEFF: [
+    {
+      timestamp: 1719953220,
+      token_amount: 3148347.426366,
+      amount: 0.989149097,
+      usdBalance: 150.86297350491452,
+      sp: 1
+    },
+    {
+      timestamp: 1719953100,
+      token_amount: 3148347.426366,
+      amount: 1,
+      usdBalance: 152.5650699491875,
+      sp: -1
+    }
+  ],
+  OUTSIDE: [
+    {
+      timestamp: 1719892920,
+      token_amount: 1975540.292637,
+      amount: 1.020627562,
+      usdBalance: 151.91933822460945,
+      sp: 1
+    },
+    {
+      timestamp: 1719892800,
+      token_amount: 1975540.292637,
+      amount: 3,
+      usdBalance: 447.05967551637923,
+      sp: -1
+    }
+  ],
+  Albert: [
+    {
+      timestamp: 1719848400,
+      token_amount: 2051134.456677,
+      amount: 1.374085009,
+      usdBalance: 203.57805588848674,
+      sp: 1
+    },
+    {
+      timestamp: 1719848160,
+      token_amount: 2051134.456677,
+      amount: 1,
+      usdBalance: 148.0213632283051,
+      sp: -1
+    }
+  ],
+  CHINA: [
+    {
+      timestamp: 1719843360,
+      token_amount: 915057.689499,
+      amount: 0.447837216,
+      usdBalance: 65.59173001162256,
+      sp: 1
+    },
+    {
+      timestamp: 1719843240,
+      token_amount: 915057.689499,
+      amount: 0.5,
+      usdBalance: 73.12088926122458,
+      sp: -1
+    }
+  ],
+  CHWY: [
+    {
+      timestamp: 1719842520,
+      token_amount: 1495898.04732,
+      amount: 4.870160334,
+      usdBalance: 715.4562977169353,
+      sp: 1
+    },
+    {
+      timestamp: 1719841560,
+      token_amount: 1495898.04732,
+      amount: 4,
+      usdBalance: 586.834867335612,
+      sp: -1
+    },
+    {
+      timestamp: 1719841320,
+      token_amount: 1287345.354906,
+      amount: 3.493288396,
+      usdBalance: 513.0228307733654,
+      sp: 1
+    },
+    {
+      timestamp: 1719839340,
+      token_amount: 551719.437816,
+      amount: 3.477131152,
+      usdBalance: 513.968907561897,
+      sp: 1
+    },
+    {
+      timestamp: 1719838140,
+      token_amount: 1839064.792722,
+      amount: 2.5,
+      usdBalance: 368.20919671501827,
+      sp: -1
+    }
+  ],
+  OTTY: [
+    {
+      timestamp: 1719835800,
+      token_amount: 400203.755794722,
+      amount: 2.656401929,
+      usdBalance: 389.22535294455304,
+      sp: 1
+    },
+    {
+      timestamp: 1719835500,
+      token_amount: 400203.755794722,
+      amount: 2.5,
+      usdBalance: 366.7779178506503,
+      sp: -1
+    }
+  ],
+  PUMA: [
+    {
+      timestamp: 1719754200,
+      token_amount: 2225731.225777,
+      amount: 2.002504875,
+      usdBalance: 283.7238807586119,
+      sp: 1
+    },
+    {
+      timestamp: 1719754020,
+      token_amount: 2225731.225777,
+      amount: 2,
+      usdBalance: 282.85918741686925,
+      sp: -1
+    },
+    {
+      timestamp: 1719753300,
+      token_amount: 225999.25478,
+      amount: 0.221641546,
+      usdBalance: 31.328831047133516,
+      sp: 1
+    },
+    {
+      timestamp: 1719753120,
+      token_amount: 225999.25478,
+      amount: 0.25,
+      usdBalance: 35.30010812175803,
+      sp: -1
+    },
+    {
+      timestamp: 1719752760,
+      token_amount: 556078.326091,
+      amount: 1.048785606,
+      usdBalance: 147.94339336869868,
+      sp: 1
+    },
+    {
+      timestamp: 1719752100,
+      token_amount: 556078.326091,
+      amount: 0.8,
+      usdBalance: 112.516250211729,
+      sp: -1
+    }
+  ],
+  POME: [
+    {
+      timestamp: 1719753840,
+      token_amount: 1022486.7689,
+      amount: 0.373150215,
+      usdBalance: 52.89453319429771,
+      sp: 1
+    },
+    {
+      timestamp: 1719753600,
+      token_amount: 1022486.7689,
+      amount: 0.3,
+      usdBalance: 42.45794080382422,
+      sp: -1
+    },
+    {
+      timestamp: 1719753360,
+      token_amount: 914282.483822,
+      amount: 0.41676813,
+      usdBalance: 58.92459152089341,
+      sp: 1
+    },
+    {
+      timestamp: 1719753300,
+      token_amount: 914282.483822,
+      amount: 0.5,
+      usdBalance: 70.67454548240138,
+      sp: -1
+    }
+  ],
+  CUTY: [
+    {
+      timestamp: 1719753420,
+      token_amount: 463.441442,
+      amount: 0.000017559,
+      usdBalance: 0.002482304129931807,
+      sp: 1
+    },
+    {
+      timestamp: 1719686940,
+      token_amount: 4170.972977,
+      amount: 0.007924901,
+      usdBalance: 1.1237233729896567,
+      sp: 1
+    },
+    {
+      timestamp: 1719686760,
+      token_amount: 41709.729766,
+      amount: 0.062650712,
+      usdBalance: 8.882724150851875,
+      sp: 1
+    },
+    {
+      timestamp: 1719686640,
+      token_amount: 417097.297662,
+      amount: 0.663835424,
+      usdBalance: 94.14871887372665,
+      sp: 1
+    },
+    {
+      timestamp: 1719686160,
+      token_amount: 463441.441847,
+      amount: 0.32,
+      usdBalance: 45.35879644384716,
+      sp: -1
+    }
+  ],
+  BIRRY: [
+    {
+      timestamp: 1719712020,
+      token_amount: 1926570.159325,
+      amount: 0.42018247,
+      usdBalance: 58.67108734815555,
+      sp: 1
+    },
+    {
+      timestamp: 1719711720,
+      token_amount: 1926570.159325,
+      amount: 0.5,
+      usdBalance: 69.8696308330084,
+      sp: -1
+    }
+  ],
+  SAX: [
+    {
+      timestamp: 1719685500,
+      token_amount: 53043.081048,
+      amount: 0.066402115,
+      usdBalance: 9.412846872199946,
+      sp: 1
+    },
+    {
+      timestamp: 1719684840,
+      token_amount: 477387.729429,
+      amount: 0.821728856,
+      usdBalance: 116.55504498520665,
+      sp: 1
+    },
+    {
+      timestamp: 1719684120,
+      token_amount: 530430.810477,
+      amount: 0.5,
+      usdBalance: 71.01506940706584,
+      sp: -1
+    }
+  ],
+  RUST: [
+    {
+      timestamp: 1719665520,
+      token_amount: 496280.070831,
+      amount: 0.494229642,
+      usdBalance: 70.16365254108507,
+      sp: 1
+    },
+    {
+      timestamp: 1719665040,
+      token_amount: 496280.070831,
+      amount: 0.5,
+      usdBalance: 71.11315922093844,
+      sp: -1
+    }
+  ],
+  Chill: [
+    {
+      timestamp: 1719615120,
+      token_amount: 208695.034269,
+      amount: 0.2,
+      usdBalance: 28.00431179329997,
+      sp: -1
+    }
+  ],
+  JACK: [
+    {
+      timestamp: 1719598560,
+      token_amount: 177452.525179,
+      amount: 1.860566726,
+      usdBalance: 263.39467623597216,
+      sp: 1
+    },
+    {
+      timestamp: 1719578700,
+      token_amount: 177452.525179,
+      amount: 2.1,
+      usdBalance: 304.92879072466445,
+      sp: -1
+    }
+  ],
+  CHIPPY: [
+    {
+      timestamp: 1719574680,
+      token_amount: 1046.399697,
+      amount: 0.016883445,
+      usdBalance: 2.4581989868964453,
+      sp: 1
+    },
+    {
+      timestamp: 1719574500,
+      token_amount: 306.103896,
+      amount: 0.005,
+      usdBalance: 0.7275341964566944,
+      sp: -1
+    },
+    {
+      timestamp: 1719574440,
+      token_amount: 740.295801,
+      amount: 0.012,
+      usdBalance: 1.7477830472119908,
+      sp: -1
+    },
+    {
+      timestamp: 1718833560,
+      token_amount: 139255.856435,
+      amount: 0.93770904,
+      usdBalance: 127.12463454077265,
+      sp: 1
+    },
+    {
+      timestamp: 1718832540,
+      token_amount: 139255.856435,
+      amount: 1,
+      usdBalance: 135.5023809875824,
+      sp: -1
+    },
+    {
+      timestamp: 1718828820,
+      token_amount: 132302.819231,
+      amount: 1.15645431,
+      usdBalance: 157.15993444127267,
+      sp: 1
+    },
+    {
+      timestamp: 1718827620,
+      token_amount: 24058.087041,
+      amount: 0.22,
+      usdBalance: 29.997413375982045,
+      sp: -1
+    },
+    {
+      timestamp: 1718827260,
+      token_amount: 108244.73219,
+      amount: 1,
+      usdBalance: 136.70380362800648,
+      sp: -1
+    },
+    {
+      timestamp: 1718796660,
+      token_amount: 100684.294437,
+      amount: 1.320809307,
+      usdBalance: 182.6806721074458,
+      sp: 1
+    },
+    {
+      timestamp: 1718794740,
+      token_amount: 100684.294437,
+      amount: 1,
+      usdBalance: 139.3050726489125,
+      sp: -1
+    },
+    {
+      timestamp: 1718792100,
+      token_amount: 104938.311061,
+      amount: 1.173495103,
+      usdBalance: 162.19002971144923,
+      sp: 1
+    },
+    {
+      timestamp: 1718785260,
+      token_amount: 104938.311061,
+      amount: 1.2,
+      usdBalance: 167.14617226673715,
+      sp: -1
+    },
+    {
+      timestamp: 1718774460,
+      token_amount: 148961.15866,
+      amount: 1.961906117,
+      usdBalance: 274.58789033225366,
+      sp: 1
+    },
+    {
+      timestamp: 1718773680,
+      token_amount: 148961.15866,
+      amount: 2,
+      usdBalance: 280.91781029543745,
+      sp: -1
+    },
+    {
+      timestamp: 1718772000,
+      token_amount: 170477.957292,
+      amount: 2.209797563,
+      usdBalance: 309.8564110326053,
+      sp: 1
+    },
+    {
+      timestamp: 1718771700,
+      token_amount: 170477.957292,
+      amount: 2.3,
+      usdBalance: 323.37660826256854,
+      sp: -1
+    },
+    {
+      timestamp: 1718688840,
+      token_amount: 176770.16196,
+      amount: 2.311986677,
+      usdBalance: 317.2614425212827,
+      sp: 1
+    },
+    {
+      timestamp: 1718688360,
+      token_amount: 176770.16196,
+      amount: 2.5,
+      usdBalance: 344.1598234737313,
+      sp: -1
+    },
+    {
+      timestamp: 1718681400,
+      token_amount: 191532.371543,
+      amount: 1.976166864,
+      usdBalance: 265.1612684304448,
+      sp: 1
+    },
+    {
+      timestamp: 1718679960,
+      token_amount: 191532.371543,
+      amount: 2,
+      usdBalance: 268.7777060478957,
+      sp: -1
+    },
+    {
+      timestamp: 1718672460,
+      token_amount: 178817.621723,
+      amount: 2.336212948,
+      usdBalance: 331.38540171062715,
+      sp: 1
+    },
+    {
+      timestamp: 1718670780,
+      token_amount: 21008.935475,
+      amount: 0.2,
+      usdBalance: 28.39895795419858,
+      sp: -1
+    },
+    {
+      timestamp: 1718667840,
+      token_amount: 63322.98694,
+      amount: 0.5,
+      usdBalance: 71.52085038420972,
+      sp: -1
+    },
+    {
+      timestamp: 1718667480,
+      token_amount: 20171.75127,
+      amount: 0.25,
+      usdBalance: 35.90800070562675,
+      sp: -1
+    },
+    {
+      timestamp: 1718666940,
+      token_amount: 14237.332746,
+      amount: 0.2,
+      usdBalance: 28.613187223745527,
+      sp: -1
+    },
+    {
+      timestamp: 1718666220,
+      token_amount: 33150.68811,
+      amount: 0.54,
+      usdBalance: 77.307461544883,
+      sp: -1
+    },
+    {
+      timestamp: 1718635500,
+      token_amount: 62827.163424,
+      amount: 1.93307523,
+      usdBalance: 278.97333046869574,
+      sp: 1
+    },
+    {
+      timestamp: 1718632380,
+      token_amount: 25795.066464,
+      amount: 0.3,
+      usdBalance: 42.58911077721616,
+      sp: -1
+    },
+    {
+      timestamp: 1718629560,
+      token_amount: 63958.024142,
+      amount: 1,
+      usdBalance: 142.5820552693936,
+      sp: -1
+    }
+  ],
+  '$Peewee': [
+    {
+      timestamp: 1719456300,
+      token_amount: 79827.673814,
+      amount: 0.497532551,
+      usdBalance: 67.78089823088439,
+      sp: 1
+    },
+    {
+      timestamp: 1719456180,
+      token_amount: 79827.673814,
+      amount: 0.5,
+      usdBalance: 68.12700460593112,
+      sp: -1
+    }
+  ],
+  KORG: [
+    {
+      timestamp: 1719453240,
+      token_amount: 520771.623922,
+      amount: 0.875666432,
+      usdBalance: 119.46189911320208,
+      sp: 1
+    },
+    {
+      timestamp: 1719451320,
+      token_amount: 520771.623922,
+      amount: 0.85,
+      usdBalance: 116.05062583351274,
+      sp: -1
+    }
+  ],
+  ICE: [
+    {
+      timestamp: 1719450120,
+      token_amount: 452630.552385,
+      amount: 0.494092412,
+      usdBalance: 67.40057969131094,
+      sp: 1
+    },
+    {
+      timestamp: 1719449940,
+      token_amount: 452630.552385,
+      amount: 0.5,
+      usdBalance: 68.35915296656873,
+      sp: -1
+    }
+  ],
+  FLOPPY: [
+    {
+      timestamp: 1719445800,
+      token_amount: 2068.412653,
+      amount: 0.722958792,
+      usdBalance: 98.64082062347428,
+      sp: 1
+    },
+    {
+      timestamp: 1719445740,
+      token_amount: 2068.412653,
+      amount: 0.75,
+      usdBalance: 102.36603119114017,
+      sp: -1
+    }
+  ],
+  WAT: [
+    {
+      timestamp: 1719234360,
+      token_amount: 61605.04998,
+      amount: 0.59360021,
+      usdBalance: 75.71306851652905,
+      sp: 1
+    },
+    {
+      timestamp: 1719233820,
+      token_amount: 15338.756103,
+      amount: 0.2,
+      usdBalance: 25.597752142368297,
+      sp: -1
+    },
+    {
+      timestamp: 1719233820,
+      token_amount: 25532.032352,
+      amount: 0.3,
+      usdBalance: 38.39662821355244,
+      sp: -1
+    },
+    {
+      timestamp: 1719233520,
+      token_amount: 20734.261525,
+      amount: 0.5,
+      usdBalance: 63.77120791131868,
+      sp: -1
+    }
+  ],
+  SHAGGY: [
+    {
+      timestamp: 1719234300,
+      token_amount: 263417.63089,
+      amount: 0.2446306,
+      usdBalance: 31.227564545997954,
+      sp: 1
+    },
+    {
+      timestamp: 1719233460,
+      token_amount: 263417.63089,
+      amount: 0.23,
+      usdBalance: 29.35019903754773,
+      sp: -1
+    }
+  ],
+  TASTY: [
+    {
+      timestamp: 1719216960,
+      token_amount: 915936.443608,
+      amount: 0.448662925,
+      usdBalance: 55.967688074470736,
+      sp: 1
+    },
+    {
+      timestamp: 1719216720,
+      token_amount: 915936.443608,
+      amount: 1,
+      usdBalance: 124.6454483370967,
+      sp: -1
+    }
+  ],
+  WOLFAB: [
+    {
+      timestamp: 1719215280,
+      token_amount: 137.027556,
+      amount: 0.000006848,
+      usdBalance: 0.0008608768838595237,
+      sp: 1
+    },
+    {
+      timestamp: 1719198000,
+      token_amount: 1233.247997,
+      amount: 0.00082363,
+      usdBalance: 0.10441013262343524,
+      sp: 1
+    },
+    {
+      timestamp: 1719197820,
+      token_amount: 12332.479976,
+      amount: 0.010432859,
+      usdBalance: 1.3201368775616629,
+      sp: 1
+    },
+    {
+      timestamp: 1719197220,
+      token_amount: 123324.799757,
+      amount: 0.020407623,
+      usdBalance: 2.592213457691708,
+      sp: 1
+    },
+    {
+      timestamp: 1719197160,
+      token_amount: 1233247.997568,
+      amount: 0.469178888,
+      usdBalance: 59.639088387851274,
+      sp: 1
+    }
+  ],
+  POCAT: [
+    {
+      timestamp: 1719197460,
+      token_amount: 200,
+      amount: 0.001776887,
+      usdBalance: 0.22562689530775903,
+      sp: 1
+    }
+  ],
+  SHRUB: [
+    {
+      timestamp: 1719193140,
+      token_amount: 535814.199879,
+      amount: 0.291187509,
+      usdBalance: 37.12954983381451,
+      sp: 1
+    },
+    {
+      timestamp: 1719192900,
+      token_amount: 1250233.13305,
+      amount: 0.822648189,
+      usdBalance: 105.23832710769162,
+      sp: 1
+    },
+    {
+      timestamp: 1719192000,
+      token_amount: 1786047.332929,
+      amount: 0.5,
+      usdBalance: 63.72773041821475,
+      sp: -1
+    }
+  ],
+  THICC: [
+    {
+      timestamp: 1719188160,
+      token_amount: 316446.573277,
+      amount: 0.193064677,
+      usdBalance: 24.921298532677433,
+      sp: 1
+    },
+    {
+      timestamp: 1719187980,
+      token_amount: 316446.573277,
+      amount: 0.2,
+      usdBalance: 25.73777950180306,
+      sp: -1
+    }
+  ],
+  ANDY: [
+    {
+      timestamp: 1719136140,
+      token_amount: 78749.46884083,
+      amount: 0.096951908,
+      usdBalance: 13.015401889730418,
+      sp: 1
+    },
+    {
+      timestamp: 1719136020,
+      token_amount: 78749.46884083,
+      amount: 0.2,
+      usdBalance: 26.826050458988618,
+      sp: -1
+    }
+  ],
+  misshawk: [
+    {
+      timestamp: 1719044580,
+      token_amount: 689322.488892,
+      amount: 0.936616123,
+      usdBalance: 125.50936717925019,
+      sp: 1
+    },
+    {
+      timestamp: 1719044280,
+      token_amount: 689322.488892,
+      amount: 1,
+      usdBalance: 134.045727369794,
+      sp: -1
+    }
+  ],
+  PEPE: [
+    {
+      timestamp: 1718955180,
+      token_amount: 96775.231408,
+      amount: 0.010458346,
+      usdBalance: 1.38613033243002,
+      sp: 1
+    },
+    {
+      timestamp: 1718950740,
+      token_amount: 96775.231408,
+      amount: 0.03,
+      usdBalance: 3.9805333890227184,
+      sp: -1
+    },
+    {
+      timestamp: 1718948640,
+      token_amount: 46048.676247,
+      amount: 0.031341375,
+      usdBalance: 4.15716374350484,
+      sp: 1
+    },
+    {
+      timestamp: 1718948520,
+      token_amount: 414438.086215,
+      amount: 0.25783789,
+      usdBalance: 34.232152939454345,
+      sp: 1
+    },
+    {
+      timestamp: 1718948400,
+      token_amount: 460486.762462,
+      amount: 0.2,
+      usdBalance: 26.553344774971926,
+      sp: -1
+    },
+    {
+      timestamp: 1718948340,
+      token_amount: 1523056.434189,
+      amount: 0.642437438,
+      usdBalance: 85.24348742885776,
+      sp: 1
+    },
+    {
+      timestamp: 1718948280,
+      token_amount: 393743.038549,
+      amount: 0.2,
+      usdBalance: 26.552503199002754,
+      sp: -1
+    },
+    {
+      timestamp: 1718947440,
+      token_amount: 228115.510995,
+      amount: 0.2,
+      usdBalance: 26.510552171675148,
+      sp: -1
+    },
+    {
+      timestamp: 1718947260,
+      token_amount: 316455.328671,
+      amount: 0.3,
+      usdBalance: 39.653453447671886,
+      sp: -1
+    },
+    {
+      timestamp: 1718947080,
+      token_amount: 420550.776763,
+      amount: 0.5,
+      usdBalance: 66.23584290660257,
+      sp: -1
+    },
+    {
+      timestamp: 1718947080,
+      token_amount: 164191.779211,
+      amount: 0.2,
+      usdBalance: 26.49433716264103,
+      sp: -1
+    }
+  ],
+  PAGER: [
+    {
+      timestamp: 1718879340,
+      token_amount: 401238.657389,
+      amount: 0.970232388,
+      usdBalance: 132.92377665771164,
+      sp: 1
+    },
+    {
+      timestamp: 1718879220,
+      token_amount: 401238.657389,
+      amount: 1,
+      usdBalance: 137.1616661164073,
+      sp: -1
+    }
+  ],
+  BOYSCLUB: [
+    {
+      timestamp: 1718795400,
+      token_amount: 191714.765335,
+      amount: 0.448814664,
+      usdBalance: 62.15972439421592,
+      sp: 1
+    },
+    {
+      timestamp: 1718795220,
+      token_amount: 191714.765335,
+      amount: 0.5,
+      usdBalance: 69.34065630059123,
+      sp: -1
+    }
+  ],
+  lixi: [
+    {
+      timestamp: 1718767380,
+      token_amount: 693020.560022,
+      amount: 0.53036078,
+      usdBalance: 74.14790638577435,
+      sp: 1
+    },
+    {
+      timestamp: 1718767260,
+      token_amount: 693020.560022,
+      amount: 0.5,
+      usdBalance: 69.81403851772725,
+      sp: -1
+    }
+  ],
+  Michiko: [
+    {
+      timestamp: 1718766600,
+      token_amount: 396130.432641,
+      amount: 0.413725649,
+      usdBalance: 57.70629670150279,
+      sp: 1
+    },
+    {
+      timestamp: 1718766360,
+      token_amount: 396130.432641,
+      amount: 0.2,
+      usdBalance: 27.939826554176534,
+      sp: -1
+    }
+  ],
+  SMOLY: [
+    {
+      timestamp: 1718715780,
+      token_amount: 1196271.096196,
+      amount: 1.075107417,
+      usdBalance: 144.99172725542647,
+      sp: 1
+    },
+    {
+      timestamp: 1718715660,
+      token_amount: 1196271.096196,
+      amount: 1,
+      usdBalance: 135.62016849914053,
+      sp: -1
+    },
+    {
+      timestamp: 1718715540,
+      token_amount: 1451139.751774,
+      amount: 0.750067125,
+      usdBalance: 102.02051676981156,
+      sp: 1
+    },
+    {
+      timestamp: 1718715360,
+      token_amount: 1451139.751774,
+      amount: 1.3,
+      usdBalance: 176.245491248206,
+      sp: -1
+    },
+    {
+      timestamp: 1718715240,
+      token_amount: 1089092.520773,
+      amount: 1.024507948,
+      usdBalance: 139.19789185343888,
+      sp: 1
+    },
+    {
+      timestamp: 1718714160,
+      token_amount: 1089092.520773,
+      amount: 1,
+      usdBalance: 135.97411126612727,
+      sp: -1
+    }
+  ],
+  CORGI: [
+    {
+      timestamp: 1718712900,
+      token_amount: 773612.419262,
+      amount: 0.883363783,
+      usdBalance: 120.38104305569321,
+      sp: 1
+    },
+    {
+      timestamp: 1718712480,
+      token_amount: 773612.419262,
+      amount: 1,
+      usdBalance: 137.00962650408223,
+      sp: -1
+    },
+    {
+      timestamp: 1718711820,
+      token_amount: 1277294.910354,
+      amount: 1.403952363,
+      usdBalance: 192.50439515303128,
+      sp: 1
+    },
+    {
+      timestamp: 1718711760,
+      token_amount: 1277294.910354,
+      amount: 1.5,
+      usdBalance: 205.91024141400163,
+      sp: -1
+    },
+    {
+      timestamp: 1718711280,
+      token_amount: 1017549.876093,
+      amount: 1.474511862,
+      usdBalance: 201.75782669990483,
+      sp: 1
+    },
+    {
+      timestamp: 1718710380,
+      token_amount: 1017549.876093,
+      amount: 1.3,
+      usdBalance: 177.61873387978872,
+      sp: -1
+    }
+  ],
+  HENRY: [
+    {
+      timestamp: 1718709960,
+      token_amount: 589494.422634,
+      amount: 0.587985051,
+      usdBalance: 80.28887420131163,
+      sp: 1
+    },
+    {
+      timestamp: 1718709780,
+      token_amount: 589494.422634,
+      amount: 0.5,
+      usdBalance: 68.4507727433097,
+      sp: -1
+    }
+  ],
+  WULLY: [
+    {
+      timestamp: 1718709060,
+      token_amount: 1134046.751302352,
+      amount: 0.712770574,
+      usdBalance: 98.10605416845013,
+      sp: 1
+    },
+    {
+      timestamp: 1718707980,
+      token_amount: 1134046.751302352,
+      amount: 0.5,
+      usdBalance: 68.98985850594038,
+      sp: -1
+    }
+  ],
+  '기름이': [
+    {
+      timestamp: 1718618700,
+      token_amount: 858544.049419,
+      amount: 0.424557334,
+      usdBalance: 60.92166040094039,
+      sp: 1
+    },
+    {
+      timestamp: 1718618460,
+      token_amount: 278736.612841,
+      amount: 0.2,
+      usdBalance: 28.86174531984806,
+      sp: -1
+    },
+    {
+      timestamp: 1718618400,
+      token_amount: 579807.436578,
+      amount: 0.5,
+      usdBalance: 72.10518870633776,
+      sp: -1
+    }
+  ],
+  BILLY: [
+    {
+      timestamp: 1718607000,
+      token_amount: 25740.480446,
+      amount: 0.647810073,
+      usdBalance: 95.09495033787302,
+      sp: 1
+    },
+    {
+      timestamp: 1718602380,
+      token_amount: 231664.324005,
+      amount: 1.964626986,
+      usdBalance: 292.29405463648527,
+      sp: 1
+    },
+    {
+      timestamp: 1718598840,
+      token_amount: 91622.972906,
+      amount: 0.3,
+      usdBalance: 44.32146009190213,
+      sp: -1
+    },
+    {
+      timestamp: 1718595420,
+      token_amount: 165781.831545,
+      amount: 1,
+      usdBalance: 147.59269524029955,
+      sp: -1
+    }
+  ],
+  MAD: [
+    {
+      timestamp: 1718585220,
+      token_amount: 512857.550517,
+      amount: 0.193492449,
+      usdBalance: 29.246464059590277,
+      sp: 1
+    },
+    {
+      timestamp: 1718584920,
+      token_amount: 512857.550517,
+      amount: 0.2,
+      usdBalance: 30.236372213026165,
+      sp: -1
+    }
+  ],
+  ZOOM: [
+    {
+      timestamp: 1718535600,
+      token_amount: 1428963.190241,
+      amount: 0.53531639,
+      usdBalance: 77.830065179736,
+      sp: 1
+    },
+    {
+      timestamp: 1718535300,
+      token_amount: 1428963.190241,
+      amount: 0.5,
+      usdBalance: 72.64642233928643,
+      sp: -1
+    },
+    {
+      timestamp: 1718503500,
+      token_amount: 244896.502861,
+      amount: 0.373690335,
+      usdBalance: 53.98753103715543,
+      sp: 1
+    },
+    {
+      timestamp: 1718503200,
+      token_amount: 244896.502861,
+      amount: 0.3,
+      usdBalance: 43.30456418907113,
+      sp: -1
+    }
+  ],
+  RIZZ: [
+    {
+      timestamp: 1718533380,
+      token_amount: 86665.564627,
+      amount: 0.50895754,
+      usdBalance: 73.53482806160498,
+      sp: 1
+    },
+    {
+      timestamp: 1718533320,
+      token_amount: 86665.564627,
+      amount: 0.5,
+      usdBalance: 72.23117577329803,
+      sp: -1
+    }
+  ],
+  hung: [
+    {
+      timestamp: 1718444580,
+      token_amount: 576066.663155,
+      amount: 0.118018334,
+      usdBalance: 16.906096622631384,
+      sp: 1
+    },
+    {
+      timestamp: 1718444520,
+      token_amount: 576066.663155,
+      amount: 0.2,
+      usdBalance: 28.637905628080546,
+      sp: -1
+    }
+  ],
+  SPURDO: [
+    {
+      timestamp: 1718343720,
+      token_amount: 396688.724327,
+      amount: 0.014778503,
+      usdBalance: 2.189610142760377,
+      sp: 1
+    },
+    {
+      timestamp: 1718326680,
+      token_amount: 396688.724327,
+      amount: 0.2,
+      usdBalance: 29.403074799076805,
+      sp: -1
+    }
+  ],
+  BRUCK: [
+    {
+      timestamp: 1718280960,
+      token_amount: 1021945.307671297,
+      amount: 0.341515297,
+      usdBalance: 51.33739072578921,
+      sp: 1
+    },
+    {
+      timestamp: 1718280900,
+      token_amount: 1021945.307671297,
+      amount: 0.5,
+      usdBalance: 75.18191483398572,
+      sp: -1
+    }
+  ],
+  SON: [
+    {
+      timestamp: 1718276400,
+      token_amount: 1021960.807329,
+      amount: 0.199004503,
+      usdBalance: 30.17347361216449,
+      sp: 1
+    },
+    {
+      timestamp: 1718276400,
+      token_amount: 1021960.807329,
+      amount: 0.2,
+      usdBalance: 30.32441292262064,
+      sp: -1
+    }
+  ],
+  GEORGIANA: [
+    {
+      timestamp: 1718245800,
+      token_amount: 2391.741383372,
+      amount: 0.138111828,
+      usdBalance: 21.189384416923414,
+      sp: 1
+    },
+    {
+      timestamp: 1718245740,
+      token_amount: 2391.741383372,
+      amount: 0.2,
+      usdBalance: 30.615907614578234,
+      sp: -1
+    },
+    {
+      timestamp: 1718245020,
+      token_amount: 1203.483351798,
+      amount: 0.307713858,
+      usdBalance: 46.886118652515925,
+      sp: 1
+    },
+    {
+      timestamp: 1718244360,
+      token_amount: 1203.483351798,
+      amount: 0.2,
+      usdBalance: 30.531293535966537,
+      sp: -1
+    }
+  ],
+  DADDY: [
+    {
+      timestamp: 1718242500,
+      token_amount: 397683.270898,
+      amount: 0.396733786,
+      usdBalance: 61.09520658454811,
+      sp: 1
+    },
+    {
+      timestamp: 1718242320,
+      token_amount: 397683.270898,
+      amount: 0.5,
+      usdBalance: 77.09860565305574,
+      sp: -1
+    }
+  ],
+  CULT: [
+    {
+      timestamp: 1718242260,
+      token_amount: 507914.836709,
+      amount: 0.494849618,
+      usdBalance: 76.36653186104763,
+      sp: 1
+    },
+    {
+      timestamp: 1718242260,
+      token_amount: 507914.836709,
+      amount: 0.5,
+      usdBalance: 77.16135274560082,
+      sp: -1
+    }
+  ]
+}
+{
+  '19': -42.60190508767175,
+  WIF: -69.04339076907331,
+  el: -27.57885049283005,
+  PRESS: -0.05295042382252291,
+  MIMU: 84.63882427254056,
+  HERO: 11507.87540658841,
+  idk: -6.599323451907992,
+  omw: -164.80061885546723,
+  PEEP: -35.17169839838246,
+  Silly: -7.231312117218437,
+  BUMPY: -2.4292506650246963,
+  NGMI: -19.449276056269056,
+  omni: 41.79905270068879,
+  chuchu: -5.194216854494073,
+  dwifkodak: -40.28535991470689,
+  mao: -55.676269362267234,
+  JEFF: -1.7020964442729678,
+  OUTSIDE: -295.1403372917698,
+  Albert: 55.55669266018165,
+  CHINA: -7.529159249602017,
+  CHWY: 308.73201627216395,
+  OTTY: 22.447435093902754,
+  PUMA: 32.32055942408783,
+  POME: -1.3133615710344912,
+  CUTY: -63.66989813903905,
+  BIRRY: -11.198543484852848,
+  SAX: -8.960740015978331,
+  RUST: -0.9495066798533713,
+  Chill: -28.004311793299973,
+  JACK: -41.534114488692296,
+  CHIPPY: -1704.0854829506534,
+  '$Peewee': -0.34610637504673036,
+  KORG: 3.4112732796893397,
+  ICE: -0.9585732752577911,
+  FLOPPY: -3.725210567665883,
+  WAT: -52.052519750710374,
+  SHAGGY: 1.8773655084502252,
+  TASTY: -68.67776026262595,
+  WOLFAB: 63.656709732611944,
+  POCAT: 0.22562689530775903,
+  SHRUB: 34.030735230551755,
+  THICC: -0.8164809691256316,
+  ANDY: -13.8106485692582,
+  misshawk: -8.536360190543817,
+  PEPE: -167.96549087874425,
+  PAGER: -4.237889458695662,
+  BOYSCLUB: -7.180931906375314,
+  lixi: 4.3338678680470935,
+  Michiko: 29.766470147326253,
+  SMOLY: -61.6296351347969,
+  CORGI: -5.895336889243254,
+  HENRY: 11.83810145800193,
+  WULLY: 29.116195662509753,
+  '기름이': -40.04527362524543,
+  BILLY: 163.60502302872968,
+  MAD: -0.9899081534358878,
+  ZOOM: 15.866609688533856,
+  RIZZ: 1.3036522883069495,
+  hung: -11.731809005449161,
+  SPURDO: -27.213464656316432,
+  BRUCK: -23.844524108196502,
+  SON: -0.15093931045614895,
+  GEORGIANA: 6.928301918894569,
+  DADDY: -16.003399068507633,
+  CULT: -0.7948208845531894
+}
+Total Transaction: 215
+Win Rate: 15.4% (10/65)
+Total PnL: 9262.52$
+
+Processing wallet (group 13): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing wallet (group 13): 
+stdout: Processing wallet address: undefined
+No more transactions available.
+{}
+{}
+Total Transaction: 0
+Win Rate: 0% (0/0)
+Total PnL: 0.00$
+
+Processing completed for group 13.
+

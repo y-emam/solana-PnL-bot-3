@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Crypto Win Rate Scanner</title>
+    <link rel="stylesheet" href="css/win-rate.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Crypto Win Rate Scanner</h1>
+      <form id="csvUploadForm">
+        <input type="file" id="csvFile" name="csvFile" accept=".csv" required />
+        <button type="submit">Upload Wallets</button>
+      </form>
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>Address</th>
+            <th>Win Rate</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="js/win-rate.js"></script>
+    <script src="js/update-table.js"></script>
+  </body>
+</html>
