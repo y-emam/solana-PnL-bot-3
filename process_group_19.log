@@ -1,3 +1,8 @@
+stderr: Error executing index.js: Error: Command failed: node index.js 
+^C
+Error processing wallet : Error: Command failed: node index.js 
+^C
+
 stdout: Processing wallet (group 19): DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
 stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
 {
@@ -6,7 +11,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1719790260,
       token_amount: 6936641.394543,
       amount: 9.1,
-      usdBalance: 1485.3008491029875,
+      usdBalance: 1236.2909157876816,
       sp: -1
     }
   ],
@@ -15,7 +20,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1719262020,
       token_amount: 4935063.103939697,
       amount: 8.82,
-      usdBalance: 1439.5992845152034,
+      usdBalance: 1118.3143545895366,
       sp: -1
     }
   ],
@@ -24,7 +29,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1719261960,
       token_amount: 20282330.03,
       amount: 8.780153765,
-      usdBalance: 1433.0955870779444,
+      usdBalance: 1113.6584831081248,
       sp: 1
     }
   ],
@@ -33,14 +38,14 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718891400,
       token_amount: 5479103.920668,
       amount: 12.95,
-      usdBalance: 2113.6973621850207,
+      usdBalance: 1754.769140413995,
       sp: -1
     },
     {
       timestamp: 1718890860,
       token_amount: 512235.307479,
       amount: 0.5,
-      usdBalance: 81.60993676390042,
+      usdBalance: 67.98342366347312,
       sp: -1
     }
   ],
@@ -49,7 +54,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718890500,
       token_amount: 7963338.411663,
       amount: 0.226660738,
-      usdBalance: 36.995536990078,
+      usdBalance: 30.681203544095652,
       sp: 1
     }
   ],
@@ -58,7 +63,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718890440,
       token_amount: 21241183.787372,
       amount: 0.262150336,
-      usdBalance: 42.788144687190496,
+      usdBalance: 35.420814057994974,
       sp: 1
     }
   ],
@@ -67,7 +72,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718881440,
       token_amount: 30067715.0350432,
       amount: 0.94,
-      usdBalance: 153.42668111613278,
+      usdBalance: 130.63829821067077,
       sp: -1
     }
   ],
@@ -76,14 +81,14 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718844360,
       token_amount: 4164537.158079566,
       amount: 0.933535668,
-      usdBalance: 152.37157366465107,
+      usdBalance: 126.18835117835047,
       sp: 1
     },
     {
       timestamp: 1718747820,
       token_amount: 1365887.649874078,
       amount: 0.75,
-      usdBalance: 122.41490514585064,
+      usdBalance: 102.99552713414656,
       sp: -1
     }
   ],
@@ -92,7 +97,7 @@ stdout: Processing wallet address: DDQz9hTrntSnBqdkLqrGMduiCSQ9FUJXU2khkFEudXjY
       timestamp: 1718563500,
       token_amount: 611835.644905,
       amount: 0.244807585,
-      usdBalance: 39.957463062346356,
+      usdBalance: 36.24978463566856,
       sp: 1
     }
   ]
@@ -113,13 +118,5 @@ Win Rate: 11.1% (1/9)
 Total PnL: -3167.29$
 
 Processing wallet (group 19): 
-stdout: Processing wallet address: undefined
-No more transactions available.
-{}
-{}
-Total Transaction: 0
-Win Rate: 0% (0/0)
-Total PnL: 0.00$
-
 Processing completed for group 19.
 

@@ -1807,6 +1807,13 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       sp: 1
     },
     {
+      timestamp: 1718838900,
+      token_amount: 9904374.760789,
+      amount: 7.996735786,
+      usdBalance: 1083.0449025675591,
+      sp: 1
+    },
+    {
       timestamp: 1718832480,
       token_amount: 4729033.383572,
       amount: 1,
@@ -2280,6 +2287,13 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       amount: 9.453099688,
       usdBalance: 1373.1441847591261,
       sp: 1
+    },
+    {
+      timestamp: 1718495160,
+      token_amount: 13080020.095306,
+      amount: 10,
+      usdBalance: 1452.6704057711981,
+      sp: -1
     }
   ],
   SPANDA: [
@@ -2814,9 +2828,23 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       amount: 5.391780246,
       usdBalance: 829.2498412132438,
       sp: 1
+    },
+    {
+      timestamp: 1718237820,
+      token_amount: 14259287.661434,
+      amount: 5,
+      usdBalance: 769.9586860527556,
+      sp: -1
     }
   ],
   DUSTY: [
+    {
+      timestamp: 1718236200,
+      token_amount: 3938521.131531,
+      amount: 0.796475415,
+      usdBalance: 123.34294152189635,
+      sp: 1
+    },
     {
       timestamp: 1718235600,
       token_amount: 3938521.131531,
@@ -2947,7 +2975,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   KING: 180.71411428534577,
   PAGER: 219.8639490217879,
   POGBY: -611.2068232403674,
-  nomnom: 1633.8658684626346,
+  nomnom: 2716.9107710301937,
   CHEESE: -0.796109177604194,
   ok: -108.24308736825259,
   NIGGA: -1939.3024768212692,
@@ -2971,7 +2999,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   MEEMI: 1701.5432119722782,
   RETODD: -66.45918009357808,
   Deadass: 88.34445905476207,
-  ZOOM: 825.4301633279531,
+  ZOOM: -98.1555307143575,
   SPANDA: 461.8529987383915,
   WUDS: -346.1443568742538,
   Groupie: -725.3098312699617,
@@ -2993,13 +3021,13 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   SOLANA: -50.17108186929556,
   LUCIFER: -753.4783646579298,
   WIFMOM: -80.76479312768686,
-  CULT: 972.8777650873587,
-  DUSTY: 2151.3869060791512,
+  CULT: 859.0083067586095,
+  DUSTY: 2274.7298476010474,
   SISTER: -652.0892741371301
 }
-Total Transaction: 365
-Win Rate: 26.7% (39/146)
-Total PnL: 36995.44$
+Total Transaction: 369
+Win Rate: 26.0% (38/146)
+Total PnL: 37164.37$
 
 Processing wallet (group 28): 
 stdout: Processing wallet address: undefined

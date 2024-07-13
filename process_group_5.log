@@ -7,14 +7,14 @@ No more transactions available.
       timestamp: 1720127880,
       token_amount: 774435.937163,
       amount: 0.464438588,
-      usdBalance: 76.8478484234882,
+      usdBalance: 83.45694282387686,
       sp: 1
     },
     {
       timestamp: 1720126260,
       token_amount: 774435.937163,
       amount: 1,
-      usdBalance: 165.46396102532333,
+      usdBalance: 179.69424802375994,
       sp: -1
     }
   ],
@@ -23,63 +23,63 @@ No more transactions available.
       timestamp: 1720115460,
       token_amount: 54541.090316152,
       amount: 10.92061068,
-      usdBalance: 1806.9674999282495,
+      usdBalance: 1962.3709241028416,
       sp: 1
     },
     {
       timestamp: 1720111260,
       token_amount: 54541.090316152,
       amount: 10.449424044,
-      usdBalance: 1729.0030927534926,
+      usdBalance: 1877.7013958679768,
       sp: 1
     },
     {
       timestamp: 1720111260,
       token_amount: 5741.1674017,
       amount: 1.102601954,
-      usdBalance: 182.44088674310134,
+      usdBalance: 198.13122899355835,
       sp: 1
     },
     {
       timestamp: 1720111200,
       token_amount: 38274.449344668,
       amount: 7.363191018,
-      usdBalance: 1218.3427516243628,
+      usdBalance: 1323.1230730348134,
       sp: 1
     },
     {
       timestamp: 1720111200,
       token_amount: 51032.599126223,
       amount: 9.854698269,
-      usdBalance: 1630.5974102981372,
+      usdBalance: 1770.8325949490038,
       sp: 1
     },
     {
       timestamp: 1719822120,
       token_amount: 22681.15516721,
       amount: 8.723084518,
-      usdBalance: 1443.3561167069533,
+      usdBalance: 1567.4881129097125,
       sp: 1
     },
     {
       timestamp: 1719822120,
       token_amount: 25201.283519122,
       amount: 9.698273148,
-      usdBalance: 1604.7146901736119,
+      usdBalance: 1742.723900458883,
       sp: 1
     },
     {
       timestamp: 1719822120,
       token_amount: 31501.604398903,
       amount: 12.121175593,
-      usdBalance: 2005.6177259012525,
+      usdBalance: 2178.1055333480876,
       sp: 1
     },
     {
       timestamp: 1719822060,
       token_amount: 31501.604398903,
       amount: 12.218769195,
-      usdBalance: 2021.7659498589014,
+      usdBalance: 2195.642542271408,
       sp: 1
     },
     {
@@ -200,14 +200,14 @@ No more transactions available.
       timestamp: 1719885540,
       token_amount: 2750818.755348,
       amount: 0.096260339,
-      usdBalance: 15.927616980580412,
+      usdBalance: 17.297429231117214,
       sp: 1
     },
     {
       timestamp: 1719885480,
       token_amount: 916939.585116,
       amount: 0.041542071,
-      usdBalance: 6.873715616855215,
+      usdBalance: 7.464871209694645,
       sp: 1
     }
   ],
@@ -216,14 +216,14 @@ No more transactions available.
       timestamp: 1719875940,
       token_amount: 1032726.425633842,
       amount: 3.964657311,
-      usdBalance: 656.0079027860671,
+      usdBalance: 712.4261141720472,
       sp: 1
     },
     {
       timestamp: 1719875880,
       token_amount: 1032726.425633842,
       amount: 5,
-      usdBalance: 827.3198051266166,
+      usdBalance: 898.4712401187996,
       sp: -1
     }
   ],
@@ -232,21 +232,21 @@ No more transactions available.
       timestamp: 1719867120,
       token_amount: 10906222.437501,
       amount: 2.25846608,
-      usdBalance: 373.6947434381347,
+      usdBalance: 405.8333639327688,
       sp: 1
     },
     {
       timestamp: 1719865860,
       token_amount: 10906222.437501,
       amount: 4.438782043,
-      usdBalance: 734.458458962857,
+      usdBalance: 797.6236013582538,
       sp: 1
     },
     {
       timestamp: 1719865860,
       token_amount: 21812444.875001,
       amount: 11.577288986,
-      usdBalance: 1915.624093558409,
+      usdBalance: 2080.372238493028,
       sp: 1
     }
   ]
@@ -279,7 +279,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       timestamp: 1720738740,
       token_amount: 4989325.730194,
       amount: 10.332467027,
-      usdBalance: 1283.6739422734213,
+      usdBalance: 1759.5864333478246,
       sp: 1
     }
   ],
@@ -288,14 +288,14 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       timestamp: 1720724100,
       token_amount: 3000387.770529,
       amount: 0.569317923,
-      usdBalance: 70.7303087166509,
+      usdBalance: 96.95304044569697,
       sp: 1
     },
     {
       timestamp: 1720720800,
       token_amount: 3000387.770529,
       amount: 1.6,
-      usdBalance: 198.77908173047533,
+      usdBalance: 272.4749361405845,
       sp: -1
     }
   ],
@@ -304,7 +304,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       timestamp: 1720627380,
       token_amount: 13989238.622112,
       amount: 0.419639634,
-      usdBalance: 52.13473819014546,
+      usdBalance: 71.46330154763014,
       sp: 1
     }
   ],
@@ -499,7 +499,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: -1
     }
   ],
-  '3V6TDkRdU6SyqhDtKWBq2LsVoqNrBwf52zs4GQCYpump': [
+  PINKI: [
     {
       timestamp: 1719778620,
       token_amount: 14504994.835021,
@@ -508,7 +508,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: 1
     }
   ],
-  '4mw9ihmZ8J9S41R3kAuyPnPCrxHGvQZtk9onEqQQpump': [
+  '$Bash': [
     {
       timestamp: 1719777900,
       token_amount: 9247684.581251,
@@ -517,7 +517,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: 1
     }
   ],
-  WX7rPi7jx96Dkpq434KteQecuRfaRYcxSh99j7Dpump: [
+  PUCHI: [
     {
       timestamp: 1719775620,
       token_amount: 1314783.025037,
@@ -540,7 +540,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: 1
     }
   ],
-  wa7uPfXZMt1SXvN64hz7aANaH9EwFCRr8FrAMe1pump: [
+  ell: [
     {
       timestamp: 1719763500,
       token_amount: 3028611.066764,
@@ -591,7 +591,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: -1
     }
   ],
-  '9kuapAHFfXb1r5sTci6Br2kFfW9NWoHCZJ1zqYVFpump': [
+  JELLY: [
     {
       timestamp: 1719752760,
       token_amount: 8792722.133534,
@@ -621,7 +621,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: -1
     }
   ],
-  '7BLEcAG1LARLLoXeTYP913tybUfM1KLdFW1dJ4KHpump': [
+  Adidas: [
     {
       timestamp: 1719745620,
       token_amount: 7405690.76708,
@@ -630,7 +630,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: 1
     }
   ],
-  '3a7N36S3f93kttMse4R6AyGpSBPddQ1MyWRbRRR4pump': [
+  Nike: [
     {
       timestamp: 1719744840,
       token_amount: 3781884.051779,
@@ -639,7 +639,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: 1
     }
   ],
-  CT6AWpRfyYpqiTSzBBjw9vpLAL73kf16sL89jvVipump: [
+  YAMI: [
     {
       timestamp: 1719726900,
       token_amount: 2192871.383718,
@@ -683,7 +683,7 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
       sp: -1
     }
   ],
-  BXa5ASBXXdJaNyHzBdoEENa3ZX57QVy2gJfUdt6Zpump: [
+  mshiba: [
     {
       timestamp: 1719609660,
       token_amount: 7391249.680261,
@@ -2033,15 +2033,15 @@ stdout: Processing wallet address: 8Q8wW7SndLFeq6SvV4pdVNn9fV22K4FQsUS5f9qPHktf
   BUDDY: 60.107763689566895,
   VILLAIN: -269.409514284805,
   Berry: -37.873220392921894,
-  '3V6TDkRdU6SyqhDtKWBq2LsVoqNrBwf52zs4GQCYpump': 234.81524626824486,
-  '4mw9ihmZ8J9S41R3kAuyPnPCrxHGvQZtk9onEqQQpump': 257.1375804604426,
-  WX7rPi7jx96Dkpq434KteQecuRfaRYcxSh99j7Dpump: 835.6258058279304,
-  wa7uPfXZMt1SXvN64hz7aANaH9EwFCRr8FrAMe1pump: 658.8040987007316,
-  '9kuapAHFfXb1r5sTci6Br2kFfW9NWoHCZJ1zqYVFpump': 112.69227114832523,
-  '7BLEcAG1LARLLoXeTYP913tybUfM1KLdFW1dJ4KHpump': 234.8846459604823,
-  '3a7N36S3f93kttMse4R6AyGpSBPddQ1MyWRbRRR4pump': 216.13538788152908,
-  CT6AWpRfyYpqiTSzBBjw9vpLAL73kf16sL89jvVipump: 812.3644485746927,
-  BXa5ASBXXdJaNyHzBdoEENa3ZX57QVy2gJfUdt6Zpump: 154.43321345483022,
+  PINKI: 234.81524626824486,
+  '$Bash': 257.1375804604426,
+  PUCHI: 835.6258058279304,
+  ell: 658.8040987007316,
+  JELLY: 112.69227114832523,
+  Adidas: 234.8846459604823,
+  Nike: 216.13538788152908,
+  YAMI: 812.3644485746927,
+  mshiba: 154.43321345483022,
   PARTY: 98.23821298148697,
   ROARINGDOG: -364.4592453859997,
   Caviar: 0.681607377056821,

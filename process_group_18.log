@@ -1,13 +1,13 @@
 stdout: Processing wallet (group 18): 9B3jrooWGbJVLnSH4Z9bQ8u4Uo61LLnDdhFDbbN6YFu2
 stdout: Processing wallet address: 9B3jrooWGbJVLnSH4Z9bQ8u4Uo61LLnDdhFDbbN6YFu2
-final.csv created and data added.
+Data appended to final.csv.
 {
   BBODEN: [
     {
       timestamp: 1720537920,
       token_amount: 1112634.920000001,
       amount: 0.066601496,
-      usdBalance: 9.221777651459417,
+      usdBalance: 9.400646771619195,
       sp: 1
     },
     {
@@ -23,7 +23,7 @@ final.csv created and data added.
       timestamp: 1720537800,
       token_amount: 35599.843386,
       amount: 0.041082898,
-      usdBalance: 5.688421032368204,
+      usdBalance: 5.798755818524868,
       sp: 1
     }
   ],
@@ -32,14 +32,14 @@ final.csv created and data added.
       timestamp: 1720315260,
       token_amount: 11412123.4228,
       amount: 4.390944397,
-      usdBalance: 618.5576160791884,
+      usdBalance: 619.7716229980397,
       sp: 1
     },
     {
       timestamp: 1720011240,
       token_amount: 1574509.886259484,
       amount: 7,
-      usdBalance: 989.8997014153574,
+      usdBalance: 988.0337733154579,
       sp: -1
     }
   ],
@@ -102,9 +102,9 @@ final.csv created and data added.
   ]
 }
 {
-  BBODEN: -144.294569873845,
-  '$DAVIDO': 5.688421032368204,
-  PRESI: -371.342085336169,
+  BBODEN: -144.11570075368522,
+  '$DAVIDO': 5.798755818524868,
+  PRESI: -368.26215031741833,
   SC: 14951.085055054542,
   RNT: 1315.7301601955348,
   GENIE: 1998.0238882972008,
@@ -112,7 +112,7 @@ final.csv created and data added.
 }
 Total Transaction: 12
 Win Rate: 14.3% (1/7)
-Total PnL: 14758.71$
+Total PnL: 14762.08$
 
 Processing wallet (group 18): 
 stdout: Processing wallet address: undefined

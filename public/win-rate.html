@@ -10,7 +10,16 @@
     <div class="container">
       <h1>Crypto Win Rate Scanner</h1>
       <form id="csvUploadForm">
-        <input type="file" id="csvFile" name="csvFile" accept=".csv" required />
+        <label for="csvFile" class="file-upload-label">
+          <input
+            type="file"
+            id="csvFile"
+            name="csvFile"
+            accept=".csv"
+            required
+          />
+          Upload
+        </label>
         <button type="submit">Upload Wallets</button>
       </form>
       <table id="dataTable">

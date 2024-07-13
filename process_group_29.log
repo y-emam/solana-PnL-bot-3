@@ -1,3 +1,8 @@
+stderr: Error executing index.js: Error: Command failed: node index.js 
+^C
+Error processing wallet : Error: Command failed: node index.js 
+^C
+
 stdout: Processing wallet (group 29): J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
 stdout: Processing wallet address: J1FjDiZ9Uht7KyoJnSSUSTEDSgUKttt2KR6GiMyf8jsa
 {
@@ -82,13 +87,5 @@ Win Rate: 0.0% (0/2)
 Total PnL: -113149.56$
 
 Processing wallet (group 29): 
-stdout: Processing wallet address: undefined
-No more transactions available.
-{}
-{}
-Total Transaction: 0
-Win Rate: 0% (0/0)
-Total PnL: 0.00$
-
 Processing completed for group 29.
 
