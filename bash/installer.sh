@@ -1,15 +1,11 @@
 cd $HOME
 
-
-
 sudo apt update
 sudo apt install docker.io cron s3fs -y 
 sudo apt install docker.io -y 
 sudo systemctl restart docker
 sudo nohup dockerd &
 sleep 2
-
-
 
 # Download Images from Docker Hub
 sudo docker pull yasseremam25/solana-bot
@@ -27,8 +23,6 @@ sudo docker run  --rm --name web5-Intro-Optimisation-Bot -p 7777:5000 -d -it nas
 
 sudo chmod +x run_cyber_web
 sudo cp run_cyber_web /usr/local/bin/run_cyber_web
-
-
 
 
 run_cyber_web
