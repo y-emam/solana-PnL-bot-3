@@ -7,33 +7,48 @@ form.addEventListener("submit", async (e) => {
   const formData = new FormData();
   formData.append("file", file);
 
-  try {
-    await fetch("/win-rate", {
-      method: "POST",
-      body: formData,
+  fetch("/win-rate", {
+    method: "POST",
+    body: formData,
+  })
+    .then((response) => {
+      if (!response.ok) {
+        throw new Error("Network response was not ok");
+      }
+      return response.json();
     })
-      .then((response) => {
-        if (!response.ok) {
-          throw new Error("Network response was not ok");
-        }
-        return response.blob();
-      })
-      .then((blob) => {
-        const url = window.URL.createObjectURL(blob);
-        const a = document.createElement("a");
-        a.style.display = "none";
-        a.href = url;
-        a.download = "final.csv";
-        document.body.appendChild(a);
-        a.click();
-        window.URL.revokeObjectURL(url);
-      })
-      .catch((error) => console.error("Download failed:", error));
-  } catch (error) {
-    console.error("Error:", error);
-    document.getElementById("status").innerText = "Error uploading file.";
-  }
+    .then((data) => {
+      console.log(data);
+    })
+    .catch((error) => {
+      console.error("Error:", error);
+      document.getElementById("status").innerText = "Error uploading file.";
+    });
 });
+
+// setInterval(() => {
+//   fetch("/get-win-rate")
+//     .then((response) => response.json())
+//     .then((data) => {
+//       const tableBody = document.querySelector("#dataTable tbody");
+//       tableBody.innerHTML = ""; // Clear any existing rows
+
+//       data.forEach((row) => {
+//         const tr = document.createElement("tr");
+
+//         const addressTd = document.createElement("td");
+//         addressTd.textContent = row.Address;
+//         tr.appendChild(addressTd);
+
+//         const winRateTd = document.createElement("td");
+//         winRateTd.textContent = row.WinRate;
+//         tr.appendChild(winRateTd);
+
+//         tableBody.appendChild(tr);
+//       });
+//     })
+//     .catch((error) => console.error("Error:", error));
+// }, 6000);
 
 // =======================================================================================
 

@@ -3,24 +3,38 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
 {
   ouppy: [
     {
+      timestamp: 1720872300,
+      token_amount: 10836539.14734,
+      amount: 3.98,
+      usdBalance: 695.2254877290803,
+      sp: -1
+    },
+    {
+      timestamp: 1720850940,
+      token_amount: 10396195.384546,
+      amount: 4.188355927,
+      usdBalance: 731.6210532993867,
+      sp: 1
+    },
+    {
       timestamp: 1720815660,
       token_amount: 10396195.384546,
       amount: 3.7,
-      usdBalance: 540.8268071277599,
+      usdBalance: 646.315151908944,
       sp: -1
     },
     {
       timestamp: 1720811280,
       token_amount: 7292073.563931,
       amount: 2.6,
-      usdBalance: 380.04045906275024,
+      usdBalance: 454.16740404412286,
       sp: -1
     },
     {
       timestamp: 1719812460,
       token_amount: 6029427.651763,
       amount: 2.3,
-      usdBalance: 336.1896368632021,
+      usdBalance: 340.6478944325811,
       sp: -1
     },
     {
@@ -115,54 +129,102 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       sp: 1
     }
   ],
+  JOHN: [
+    {
+      timestamp: 1720870080,
+      token_amount: 722632.168275,
+      amount: 5.31691763,
+      usdBalance: 928.7579528975115,
+      sp: 1
+    },
+    {
+      timestamp: 1720868460,
+      token_amount: 722632.168275,
+      amount: 5.35,
+      usdBalance: 934.5367737061757,
+      sp: -1
+    }
+  ],
+  FIRST: [
+    {
+      timestamp: 1720868340,
+      token_amount: 1008084.16177455,
+      amount: 5.363301117,
+      usdBalance: 936.8602097749363,
+      sp: 1
+    },
+    {
+      timestamp: 1720856340,
+      token_amount: 1008084.16177455,
+      amount: 5.06,
+      usdBalance: 883.8796401781774,
+      sp: -1
+    }
+  ],
+  DEVIN: [
+    {
+      timestamp: 1720856100,
+      token_amount: 539907.13105,
+      amount: 5.102207156,
+      usdBalance: 891.2523765137951,
+      sp: 1
+    },
+    {
+      timestamp: 1720852380,
+      token_amount: 539907.13105,
+      amount: 4.2,
+      usdBalance: 733.6550373020447,
+      sp: -1
+    }
+  ],
   BETA: [
     {
       timestamp: 1720815480,
       token_amount: 8076574.144906,
       amount: 3.692231179,
-      usdBalance: 539.6912431665229,
+      usdBalance: 644.9580960373851,
       sp: 1
     },
     {
       timestamp: 1720810800,
       token_amount: 5840314.341396,
       amount: 2.582983871,
-      usdBalance: 377.55322157173833,
+      usdBalance: 451.1950305307344,
       sp: 1
     },
     {
       timestamp: 1720806240,
       token_amount: 5840314.341396,
       amount: 2.8,
-      usdBalance: 409.27434052911565,
+      usdBalance: 489.103358201363,
       sp: -1
     },
     {
       timestamp: 1720802460,
       token_amount: 2376166.835773,
       amount: 1.570023661,
-      usdBalance: 229.4894280253153,
+      usdBalance: 274.25137323239227,
       sp: 1
     },
     {
       timestamp: 1720802460,
       token_amount: 2376166.835773,
       amount: 1.6,
-      usdBalance: 233.87105173092323,
+      usdBalance: 279.48763325792174,
       sp: -1
     },
     {
       timestamp: 1720802220,
       token_amount: 2514095.879525,
       amount: 1.654997636,
-      usdBalance: 241.9100235896948,
+      usdBalance: 289.0946077081847,
       sp: 1
     },
     {
       timestamp: 1720800420,
       token_amount: 2514095.879525,
       amount: 2.7,
-      usdBalance: 394.657399795933,
+      usdBalance: 471.63538112274296,
       sp: -1
     }
   ],
@@ -171,42 +233,42 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1720804200,
       token_amount: 8837188.559223,
       amount: 2.836967026,
-      usdBalance: 414.6777888103559,
+      usdBalance: 495.56074982969056,
       sp: 1
     },
     {
       timestamp: 1720803840,
       token_amount: 8837188.559223,
       amount: 1.8,
-      usdBalance: 263.10493319728863,
+      usdBalance: 314.423587415162,
       sp: -1
     },
     {
       timestamp: 1720803360,
       token_amount: 6935973.942973,
       amount: 1.755768463,
-      usdBalance: 256.63963564862286,
+      usdBalance: 306.69723267048056,
       sp: 1
     },
     {
       timestamp: 1720802640,
       token_amount: 6935973.942973,
       amount: 1.5,
-      usdBalance: 219.25411099774053,
+      usdBalance: 262.01965617930165,
       sp: -1
     },
     {
       timestamp: 1720789020,
       token_amount: 3873327.634419,
       amount: 1.4,
-      usdBalance: 204.63717026455782,
+      usdBalance: 244.5516791006815,
       sp: -1
     },
     {
       timestamp: 1720789020,
       token_amount: 5767580.801937,
       amount: 2,
-      usdBalance: 292.33881466365403,
+      usdBalance: 349.3595415724022,
       sp: -1
     }
   ],
@@ -215,7 +277,7 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1720729980,
       token_amount: 2180063.272387,
       amount: 13.225480352,
-      usdBalance: 1933.1606247305629,
+      usdBalance: 2310.223876424766,
       sp: 1
     }
   ],
@@ -224,70 +286,70 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1719847140,
       token_amount: 530830.692164,
       amount: 1.587333273,
-      usdBalance: 232.01956375249918,
+      usdBalance: 277.2750122889504,
       sp: 1
     },
     {
       timestamp: 1719847140,
       token_amount: 530830.692164,
       amount: 1.5,
-      usdBalance: 219.25411099774053,
+      usdBalance: 262.01965617930165,
       sp: -1
     },
     {
       timestamp: 1719847080,
       token_amount: 480008.665073,
       amount: 1.532168181,
-      usdBalance: 223.95611494945348,
+      usdBalance: 267.6387866629907,
       sp: 1
     },
     {
       timestamp: 1719846900,
       token_amount: 480008.665073,
       amount: 1.4,
-      usdBalance: 204.63717026455782,
+      usdBalance: 244.5516791006815,
       sp: -1
     },
     {
       timestamp: 1719846300,
       token_amount: 344973.191834,
       amount: 1.379821471,
-      usdBalance: 201.68768663979975,
+      usdBalance: 241.02689828015883,
       sp: 1
     },
     {
       timestamp: 1719846000,
       token_amount: 344973.191834,
       amount: 1,
-      usdBalance: 146.16940733182702,
+      usdBalance: 174.6797707862011,
       sp: -1
     },
     {
       timestamp: 1719845220,
       token_amount: 339084.637318,
       amount: 1.028509334,
-      usdBalance: 150.3365997860321,
+      usdBalance: 179.65977471458834,
       sp: 1
     },
     {
       timestamp: 1719845100,
       token_amount: 339084.637318,
       amount: 0.75,
-      usdBalance: 109.62705549887026,
+      usdBalance: 131.00982808965082,
       sp: -1
     },
     {
       timestamp: 1719844200,
       token_amount: 635073.278757,
       amount: 0.689750369,
-      usdBalance: 100.82040264363899,
+      usdBalance: 120.48543635661761,
       sp: 1
     },
     {
       timestamp: 1719843480,
       token_amount: 229616.469552,
       amount: 0.4,
-      usdBalance: 58.46776293273081,
+      usdBalance: 69.87190831448044,
       sp: -1
     }
   ],
@@ -296,14 +358,14 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1719824820,
       token_amount: 6455352.996483,
       amount: 2.446520151,
-      usdBalance: 357.60640049704193,
+      usdBalance: 427.3575792005021,
       sp: 1
     },
     {
       timestamp: 1719824760,
       token_amount: 6455352.996483,
       amount: 2.25,
-      usdBalance: 328.8811664966108,
+      usdBalance: 331.7900084210041,
       sp: -1
     },
     {
@@ -326,28 +388,28 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1719818040,
       token_amount: 40274755.747085,
       amount: 3.176604287,
-      usdBalance: 464.32236595853095,
+      usdBalance: 470.1950000855802,
       sp: 1
     },
     {
       timestamp: 1719818040,
       token_amount: 40274755.747085,
       amount: 2,
-      usdBalance: 292.33881466365403,
+      usdBalance: 296.03624348793824,
       sp: -1
     },
     {
       timestamp: 1719817320,
       token_amount: 3056870.572242,
       amount: 9.40615353,
-      usdBalance: 1374.8918867522725,
+      usdBalance: 1387.3792818114698,
       sp: 1
     },
     {
       timestamp: 1719816900,
       token_amount: 3056870.572242,
       amount: 7.5,
-      usdBalance: 1096.2705549887025,
+      usdBalance: 1108.378233708484,
       sp: -1
     }
   ],
@@ -356,7 +418,7 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       timestamp: 1719816900,
       token_amount: 10956275.874186,
       amount: 7.733851477,
-      usdBalance: 1130.452486785465,
+      usdBalance: 1142.9376853121348,
       sp: 1
     },
     {
@@ -368,13 +430,6 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
     }
   ],
   MILON: [
-    {
-      timestamp: 1719811740,
-      token_amount: 15183398.793346,
-      amount: 2.360016738,
-      usdBalance: 344.9622478866517,
-      sp: -1
-    },
     {
       timestamp: 1719811740,
       token_amount: 15183398.793346,
@@ -623,13 +678,6 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
       amount: 2.15,
       usdBalance: 281.2951754647297,
       sp: -1
-    },
-    {
-      timestamp: 1718908080,
-      token_amount: 833698.36905,
-      amount: 2.194972164,
-      usdBalance: 297.43315588003014,
-      sp: 1
     },
     {
       timestamp: 1718908080,
@@ -1409,7 +1457,10 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
   ]
 }
 {
-  ouppy: 2661.6053198411573,
+  ouppy: 2574.885440263428,
+  JOHN: -4.580651766790879,
+  FIRST: 41.99568523826076,
+  DEVIN: 124.92142501104729,
   BETA: 332.34157237226617,
   cepi: -76.95170758226567,
   BLINK: 1831.226721091809,
@@ -1417,7 +1468,7 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
   Warren: 1435.606594260935,
   OFFSET: 453.1598047006278,
   KORG: 443.9577943227275,
-  MILON: -697.899122999191,
+  MILON: -348.9495614995955,
   ICF: -1528.0216990833735,
   LAMBOW: 10.610319944585159,
   ZEUS: -2.2637505171844623,
@@ -1426,7 +1477,7 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
   Ross: -360.8466625723299,
   HOOD: 361.0732981904852,
   MOMF: -32.28212363613449,
-  BURN: -4131.851899671693,
+  BURN: -2328.4191200415935,
   KITSUNE: -269.99315524327744,
   GRIMES: -36.7913678308486,
   GOLDIE: -178.19669840141287,
@@ -1462,9 +1513,9 @@ stdout: Processing wallet address: FaQ6a7FraeiCAXFXzTytDSfosTKRE3ssLRqyfExpZexk
   JESUS: 3635.6674193637336,
   HL: 20.20488210654929
 }
-Total Transaction: 186
-Win Rate: 26.9% (14/52)
-Total PnL: 5459.60$
+Total Transaction: 192
+Win Rate: 29.1% (16/55)
+Total PnL: 7687.60$
 
 Processing wallet (group 27): 
 stdout: Processing wallet address: undefined

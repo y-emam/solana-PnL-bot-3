@@ -6,28 +6,28 @@ stdout: Processing wallet address: HXNMs5Ex56phUvM81Vkk7ArS7xRQnkMozwNJTWUKYAPh
       timestamp: 1720820160,
       token_amount: 2107420.318551,
       amount: 2.749910128,
-      usdBalance: 454.1094803436296,
+      usdBalance: 485.9060143161345,
       sp: 1
     },
     {
       timestamp: 1720820100,
       token_amount: 702473.439516,
       amount: 0.983480446,
-      usdBalance: 162.4081418929852,
+      usdBalance: 173.7798842252616,
       sp: 1
     },
     {
       timestamp: 1720820100,
       token_amount: 936631.252689,
       amount: 1.392612599,
-      usdBalance: 229.97063693562333,
+      usdBalance: 246.07307365301767,
       sp: 1
     },
     {
       timestamp: 1720819860,
       token_amount: 3746525.010755,
       amount: 3.373799358,
-      usdBalance: 557.1361251574151,
+      usdBalance: 596.1465367380592,
       sp: 1
     }
   ],
@@ -36,42 +36,42 @@ stdout: Processing wallet address: HXNMs5Ex56phUvM81Vkk7ArS7xRQnkMozwNJTWUKYAPh
       timestamp: 1720750440,
       token_amount: 10599225.488218,
       amount: 4.64668493,
-      usdBalance: 767.3355057670725,
+      usdBalance: 821.0639799204182,
       sp: 1
     },
     {
       timestamp: 1720748520,
       token_amount: 3533075.162739,
       amount: 3.304126783,
-      usdBalance: 545.6306666679541,
+      usdBalance: 583.8354714124393,
       sp: 1
     },
     {
       timestamp: 1720748520,
       token_amount: 4710766.883652,
       amount: 4.72060972,
-      usdBalance: 779.5431585298293,
+      usdBalance: 834.1264068347776,
       sp: 1
     },
     {
       timestamp: 1720743960,
       token_amount: 9530277.11871,
       amount: 1,
-      usdBalance: 165.1361168933553,
+      usdBalance: 176.6988707625628,
       sp: -1
     },
     {
       timestamp: 1720742340,
       token_amount: 2836261.297251,
       amount: 1,
-      usdBalance: 165.1361168933553,
+      usdBalance: 176.6988707625628,
       sp: -1
     },
     {
       timestamp: 1720742160,
       token_amount: 6476529.118648,
       amount: 2,
-      usdBalance: 330.2722337867106,
+      usdBalance: 353.3977415251256,
       sp: -1
     }
   ],
@@ -80,7 +80,7 @@ stdout: Processing wallet address: HXNMs5Ex56phUvM81Vkk7ArS7xRQnkMozwNJTWUKYAPh
       timestamp: 1719940560,
       token_amount: 31916244.191704,
       amount: 2.454731331,
-      usdBalance: 405.3648000177977,
+      usdBalance: 433.74825421318275,
       sp: 1
     }
   ],

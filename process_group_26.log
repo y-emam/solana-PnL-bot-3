@@ -1,55 +1,56 @@
 stdout: Processing wallet (group 26): 9JerKiGQDWqpiphRdhQCm4Wm9ZXoUyyoK8u8PwfGruzK
 stdout: Processing wallet address: 9JerKiGQDWqpiphRdhQCm4Wm9ZXoUyyoK8u8PwfGruzK
 No more transactions available.
+Data appended to final.csv.
 {
   EMI: [
     {
       timestamp: 1720041180,
       token_amount: 27403644.445201,
       amount: 3.301919242,
-      usdBalance: 423.50375291294984,
+      usdBalance: 562.3063966283231,
       sp: 1
     },
     {
       timestamp: 1720041060,
       token_amount: 773240.880113,
       amount: 0.1,
-      usdBalance: 12.825987611266655,
+      usdBalance: 17.02968350878653,
       sp: -1
     },
     {
       timestamp: 1720040760,
       token_amount: 26630403.565088,
       amount: 3.6,
-      usdBalance: 461.73555400559957,
+      usdBalance: 613.068606316315,
       sp: -1
     },
     {
       timestamp: 1720040460,
       token_amount: 36220394.88426,
       amount: 3.978723269,
-      usdBalance: 510.3105535685237,
+      usdBalance: 677.5639804011453,
       sp: 1
     },
     {
       timestamp: 1720040100,
       token_amount: 6004918.273656,
       amount: 1,
-      usdBalance: 128.25987611266655,
+      usdBalance: 170.29683508786528,
       sp: -1
     },
     {
       timestamp: 1720038360,
       token_amount: 7811971.739344,
       amount: 2,
-      usdBalance: 256.5197522253331,
+      usdBalance: 340.59367017573055,
       sp: -1
     },
     {
       timestamp: 1720038300,
       token_amount: 22403504.87126,
       amount: 5,
-      usdBalance: 641.2993805633328,
+      usdBalance: 851.4841754393263,
       sp: -1
     }
   ],
@@ -58,14 +59,14 @@ No more transactions available.
       timestamp: 1720039980,
       token_amount: 15687320.825111,
       amount: 3.724521455,
-      usdBalance: 477.70666039726854,
+      usdBalance: 634.2742160033511,
       sp: 1
     },
     {
       timestamp: 1720039620,
       token_amount: 15687320.825111,
       amount: 5,
-      usdBalance: 641.2993805633328,
+      usdBalance: 851.4841754393263,
       sp: -1
     }
   ],
@@ -74,14 +75,14 @@ No more transactions available.
       timestamp: 1720038360,
       token_amount: 18670704.065678,
       amount: 3.027201406,
-      usdBalance: 388.26847730165,
+      usdBalance: 515.522818615336,
       sp: 1
     },
     {
       timestamp: 1720038120,
       token_amount: 18670704.065678,
       amount: 6,
-      usdBalance: 769.5592566759992,
+      usdBalance: 1021.7810105271917,
       sp: -1
     }
   ],
@@ -90,7 +91,7 @@ No more transactions available.
       timestamp: 1720035720,
       token_amount: 30328564.234736,
       amount: 2.107790126,
-      usdBalance: 270.3449004322618,
+      usdBalance: 358.9499874872527,
       sp: 1
     }
   ],
@@ -99,28 +100,28 @@ No more transactions available.
       timestamp: 1720033800,
       token_amount: 26968866.327547,
       amount: 3.456378338,
-      usdBalance: 443.3146574303843,
+      usdBalance: 588.6102918276558,
       sp: 1
     },
     {
       timestamp: 1720033740,
       token_amount: 26968866.327547,
       amount: 4,
-      usdBalance: 513.0395044506662,
+      usdBalance: 681.1873403514611,
       sp: -1
     },
     {
       timestamp: 1720033680,
       token_amount: 25490024.237496,
       amount: 2.832572707,
-      usdBalance: 363.30542447994054,
+      usdBalance: 482.37816715836715,
       sp: 1
     },
     {
       timestamp: 1720033200,
       token_amount: 11190666.00879,
       amount: 10,
-      usdBalance: 1282.5987611266655,
+      usdBalance: 1702.9683508786527,
       sp: -1
     },
     {
@@ -136,7 +137,7 @@ No more transactions available.
       timestamp: 1720033140,
       token_amount: 16762204.263421,
       amount: 8.155382838,
-      usdBalance: 1046.0083924532469,
+      usdBalance: 1388.8358862412927,
       sp: 1
     },
     {
@@ -770,6 +771,13 @@ No more transactions available.
       sp: -1
     },
     {
+      timestamp: 1719916980,
+      token_amount: 12702556.430529,
+      amount: 4,
+      usdBalance: 594.1515293549086,
+      sp: -1
+    },
+    {
       timestamp: 1719912720,
       token_amount: 492717.874475,
       amount: 0.5,
@@ -1012,13 +1020,6 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718661600,
-      token_amount: 15713276.452567,
-      amount: 25,
-      usdBalance: 3573.9599831769992,
-      sp: -1
-    },
-    {
       timestamp: 1718652120,
       token_amount: 29417168.974764,
       amount: 38.396308804,
@@ -1066,13 +1067,6 @@ No more transactions available.
       amount: 28.713929715,
       usdBalance: 4128.022226423804,
       sp: 1
-    },
-    {
-      timestamp: 1718643600,
-      token_amount: 10680834.302879,
-      amount: 9,
-      usdBalance: 1292.2018274237887,
-      sp: -1
     },
     {
       timestamp: 1718643540,
@@ -1129,13 +1123,6 @@ No more transactions available.
       amount: 50,
       usdBalance: 7125.444672529531,
       sp: -1
-    },
-    {
-      timestamp: 1718627400,
-      token_amount: 10766932.209371,
-      amount: 26.838614256,
-      usdBalance: 3842.131712609277,
-      sp: 1
     },
     {
       timestamp: 1718627340,
@@ -1373,13 +1360,6 @@ No more transactions available.
     }
   ],
   MURFY: [
-    {
-      timestamp: 1719853560,
-      token_amount: 15576249.699893,
-      amount: 12.618135441,
-      usdBalance: 1860.736447805404,
-      sp: 1
-    },
     {
       timestamp: 1719853560,
       token_amount: 15576249.699893,
@@ -2137,6 +2117,13 @@ No more transactions available.
       sp: -1
     },
     {
+      timestamp: 1719699960,
+      token_amount: 16245405.095386531,
+      amount: 40,
+      usdBalance: 5597.077731366038,
+      sp: -1
+    },
+    {
       timestamp: 1719699780,
       token_amount: 14671120.220193285,
       amount: 32.751721322,
@@ -2519,6 +2506,13 @@ No more transactions available.
       token_amount: 237871.020524951,
       amount: 4,
       usdBalance: 549.4259173020328,
+      sp: -1
+    },
+    {
+      timestamp: 1719400080,
+      token_amount: 1806743.71716978,
+      amount: 30,
+      usdBalance: 4117.4119339317895,
       sp: -1
     },
     {
@@ -5001,13 +4995,6 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718809860,
-      token_amount: 112789.132873,
-      amount: 3,
-      usdBalance: 409.7165409877159,
-      sp: -1
-    },
-    {
       timestamp: 1718809740,
       token_amount: 1708383.644037,
       amount: 50,
@@ -5075,13 +5062,6 @@ No more transactions available.
       sp: 1
     },
     {
-      timestamp: 1718747820,
-      token_amount: 23372477.525153,
-      amount: 82.471407038,
-      usdBalance: 11325.5813884981,
-      sp: 1
-    },
-    {
       timestamp: 1718747340,
       token_amount: 8346760.822241,
       amount: 5,
@@ -5127,13 +5107,6 @@ No more transactions available.
     },
     {
       timestamp: 1718745960,
-      token_amount: 6475519.595868,
-      amount: 1,
-      usdBalance: 137.33222657486385,
-      sp: -1
-    },
-    {
-      timestamp: 1718745960,
       token_amount: 24551158.679972,
       amount: 3,
       usdBalance: 411.99667972459156,
@@ -5163,13 +5136,6 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718725800,
-      token_amount: 2263996.510982,
-      amount: 5,
-      usdBalance: 680.9515440737822,
-      sp: -1
-    },
-    {
       timestamp: 1718725680,
       token_amount: 5020914.669057,
       amount: 10,
@@ -5195,13 +5161,6 @@ No more transactions available.
       token_amount: 11427689.497518,
       amount: 15,
       usdBalance: 2041.2350751616157,
-      sp: -1
-    },
-    {
-      timestamp: 1718710440,
-      token_amount: 13010795.033666,
-      amount: 15,
-      usdBalance: 2042.8700296638901,
       sp: -1
     }
   ],
@@ -5295,13 +5254,6 @@ No more transactions available.
   ],
   CAMEL: [
     {
-      timestamp: 1718667360,
-      token_amount: 15959961.485665,
-      amount: 32.598002768,
-      usdBalance: 4678.014096901558,
-      sp: 1
-    },
-    {
       timestamp: 1718666820,
       token_amount: 15959961.485665,
       amount: 55,
@@ -5310,20 +5262,6 @@ No more transactions available.
     }
   ],
   DJT: [
-    {
-      timestamp: 1718665620,
-      token_amount: 27946911.229683,
-      amount: 1.270593187,
-      usdBalance: 182.79629304498727,
-      sp: 1
-    },
-    {
-      timestamp: 1718665020,
-      token_amount: 13154514.924804,
-      amount: 71.715369957,
-      usdBalance: 10312.684623924195,
-      sp: 1
-    },
     {
       timestamp: 1718664600,
       token_amount: 4590026.495825,
@@ -5358,13 +5296,6 @@ No more transactions available.
       amount: 35.798872754,
       usdBalance: 5143.057591766091,
       sp: 1
-    },
-    {
-      timestamp: 1718663940,
-      token_amount: 20857993.070544,
-      amount: 3,
-      usdBalance: 430.99605066682693,
-      sp: -1
     },
     {
       timestamp: 1718663880,
@@ -5471,13 +5402,6 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718659680,
-      token_amount: 16830643.130468,
-      amount: 15,
-      usdBalance: 2142.0898106697646,
-      sp: -1
-    },
-    {
       timestamp: 1718631360,
       token_amount: 8789021.200359,
       amount: 12.573850874,
@@ -5548,11 +5472,11 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718618640,
-      token_amount: 24661137.061038,
-      amount: 8.392391336,
-      usdBalance: 1205.3349180837424,
-      sp: 1
+      timestamp: 1718618940,
+      token_amount: 24130620.274215,
+      amount: 10,
+      usdBalance: 1434.5327204714617,
+      sp: -1
     }
   ],
   Uno: [
@@ -5584,13 +5508,6 @@ No more transactions available.
       token_amount: 9210077.103728,
       amount: 40.869840149,
       usdBalance: 5899.989295411219,
-      sp: 1
-    },
-    {
-      timestamp: 1718645520,
-      token_amount: 9210077.103728,
-      amount: 49.042016215,
-      usdBalance: 7056.093723140611,
       sp: 1
     },
     {
@@ -5689,6 +5606,13 @@ No more transactions available.
       sp: -1
     },
     {
+      timestamp: 1718635020,
+      token_amount: 2069881.263971,
+      amount: 5,
+      usdBalance: 721.978531193751,
+      sp: -1
+    },
+    {
       timestamp: 1718634660,
       token_amount: 4578785.376454,
       amount: 15,
@@ -5773,13 +5697,6 @@ No more transactions available.
       amount: 10,
       usdBalance: 1442.103774126755,
       sp: -1
-    },
-    {
-      timestamp: 1718618280,
-      token_amount: 19714965.358836,
-      amount: 10,
-      usdBalance: 1443.4134913608586,
-      sp: -1
     }
   ],
   ouppy: [
@@ -5789,20 +5706,6 @@ No more transactions available.
       amount: 61.444789231,
       usdBalance: 8860.97624504481,
       sp: 1
-    },
-    {
-      timestamp: 1718616480,
-      token_amount: 6602872.479367,
-      amount: 30,
-      usdBalance: 4397.753882140576,
-      sp: -1
-    },
-    {
-      timestamp: 1718616360,
-      token_amount: 10524336.997072,
-      amount: 55,
-      usdBalance: 8059.060891512987,
-      sp: -1
     },
     {
       timestamp: 1718615580,
@@ -5842,13 +5745,6 @@ No more transactions available.
   ],
   HT: [
     {
-      timestamp: 1718616300,
-      token_amount: 16646074.652206,
-      amount: 35.49836565,
-      usdBalance: 5188.241318683042,
-      sp: 1
-    },
-    {
       timestamp: 1718613660,
       token_amount: 1925383.724646,
       amount: 5,
@@ -5870,13 +5766,6 @@ No more transactions available.
       sp: -1
     },
     {
-      timestamp: 1718606220,
-      token_amount: 16455556.221734,
-      amount: 33.075456938,
-      usdBalance: 4876.505797965054,
-      sp: 1
-    },
-    {
       timestamp: 1718600700,
       token_amount: 5178088.19044,
       amount: 24,
@@ -5892,20 +5781,6 @@ No more transactions available.
     }
   ],
   DADDY: [
-    {
-      timestamp: 1718611380,
-      token_amount: 265346.429293,
-      amount: 329.974945874,
-      usdBalance: 48347.74394921267,
-      sp: 1
-    },
-    {
-      timestamp: 1718607300,
-      token_amount: 74801.777593,
-      amount: 83,
-      usdBalance: 12147.009292211735,
-      sp: -1
-    },
     {
       timestamp: 1718606520,
       token_amount: 117266.714464,
@@ -5933,13 +5808,6 @@ No more transactions available.
       amount: 16.128348224,
       usdBalance: 2388.0486278870862,
       sp: 1
-    },
-    {
-      timestamp: 1718578020,
-      token_amount: 5150225.863767,
-      amount: 4,
-      usdBalance: 600.1080992632006,
-      sp: -1
     },
     {
       timestamp: 1718577960,
@@ -5976,20 +5844,6 @@ No more transactions available.
       token_amount: 2711658.279187,
       amount: 19,
       usdBalance: 2827.3190480636904,
-      sp: -1
-    },
-    {
-      timestamp: 1718573040,
-      token_amount: 5881518.459615,
-      amount: 40,
-      usdBalance: 5957.006066716247,
-      sp: -1
-    },
-    {
-      timestamp: 1718572920,
-      token_amount: 1506908.414446,
-      amount: 8.5,
-      usdBalance: 1265.010599169324,
       sp: -1
     }
   ],
@@ -6030,13 +5884,6 @@ No more transactions available.
       sp: 1
     },
     {
-      timestamp: 1718542920,
-      token_amount: 529570.744311,
-      amount: 2,
-      usdBalance: 290.25124214223024,
-      sp: -1
-    },
-    {
       timestamp: 1718538060,
       token_amount: 1425252.013917,
       amount: 8,
@@ -6055,13 +5902,6 @@ No more transactions available.
       token_amount: 158863.457301,
       amount: 0.75,
       usdBalance: 108.37823594672385,
-      sp: -1
-    },
-    {
-      timestamp: 1718494020,
-      token_amount: 1702873.161373,
-      amount: 10,
-      usdBalance: 1452.4810691526352,
       sp: -1
     },
     {
@@ -6173,13 +6013,6 @@ No more transactions available.
       token_amount: 2082325.101893274,
       amount: 10,
       usdBalance: 1443.1889182744249,
-      sp: -1
-    },
-    {
-      timestamp: 1718453580,
-      token_amount: 9925063.039302044,
-      amount: 50,
-      usdBalance: 7219.873488393654,
       sp: -1
     },
     {
@@ -6308,7 +6141,7 @@ No more transactions available.
   sweeney: 18.077031195134964,
   DOUG: 467.95736482413577,
   TISU: -1.2526327383338298,
-  GARY: -1103.39460912002,
+  GARY: -1248.6963878728816,
   WOLFST: 16.876352842813674,
   SIMBA: 971.7406611598585,
   BELLY: -1224.249908983186,
@@ -6317,13 +6150,13 @@ No more transactions available.
   RILLY: -2453.1913117416266,
   BERNIE: -187.41008865492495,
   BOO: 319.45001582446827,
-  Gireumee: -9506.812384105839,
+  Gireumee: -23225.02604513844,
   PEIPEI: -918.421646686957,
   ARO: 1883.221731528124,
   BENNY: -1940.0332359533295,
   GARF: 2441.3660944756934,
   hold: -790.1494583353386,
-  MURFY: 2096.440346936728,
+  MURFY: 235.70389913132408,
   ARCHIE: -794.1164835944846,
   Warren: 1196.4157866221476,
   NOTCAT: 4588.736903919852,
@@ -6344,14 +6177,14 @@ No more transactions available.
   Pretty: -115.63216344305431,
   awtysm: 719.9719719282348,
   YAMI: -83.57603684175308,
-  zazu: 5102.978894477377,
+  zazu: 5102.978894477376,
   derpy: -1569.572199743591,
   TOMMY: -1698.8749186405398,
   Mango: -3281.9841791209224,
   franky: -587.7101589970621,
   CLOCKIN: 981.2285378123023,
   Charizard: -7867.204179480863,
-  MC: -4495.202956785592,
+  MC: -7262.434259814467,
   TRW: 38.396206397255355,
   Jar: 4193.409252689815,
   FREECZ: 157.7763097994482,
@@ -6411,38 +6244,38 @@ No more transactions available.
   NCAT: 45924.2483444341,
   MOKA: -3752.893994998983,
   jiff: -420.75807388021167,
-  Q: -13950.797680966945,
+  Q: -13700.958369320484,
   Brett: -3299.6529757268945,
-  MAGA: 24941.296456266653,
-  Maganomics: -185.24528293283382,
-  HENRY: 2145.293317051303,
+  MAGA: 12635.000264457318,
+  Maganomics: -47.91305635796999,
+  HENRY: 7722.0418389843335,
   TRON: -1824.9144161561849,
   bicho: 18890.765384573657,
-  CAMEL: -3208.992957384271,
-  DJT: -4646.4924158559115,
+  CAMEL: -7887.007054285829,
+  DJT: -10972.039113607243,
   CODY: -912.6158969998717,
   POM: -443.640671578754,
-  NGT: 1894.3914163394065,
+  NGT: 3849.559023528114,
   Uno: -2329.6053283956758,
-  Bobby: -7182.209846758392,
+  Bobby: -861.3614888394186,
   ALLOY: -3235.0964545055967,
   David: -13556.438131474828,
-  '기름이': -1351.1597864960127,
-  ouppy: -54.12784316489706,
-  HT: -5980.1486279982755,
-  DADDY: 3786.310278690804,
-  MCGA: -4668.646251146224,
-  RIZZ: -15787.235807020103,
+  '기름이': -1500.776068650292,
+  ouppy: 12402.686930488666,
+  HT: -16044.895744646372,
+  DADDY: -31814.316279046627,
+  MCGA: 2553.3704147393473,
+  RIZZ: -14076.575748607107,
   MOMMY: -1294.1610463086813,
   DOMMY: -1370.6672636731114,
-  EURO24: -8083.793661332364,
+  EURO24: -863.9201729387128,
   BOMBOCLAAT: 1191.9458715974179,
   DHT: -102.37190105994978,
   WANSEM: 529.2808192778932
 }
-Total Transaction: 852
-Win Rate: 12.7% (20/157)
-Total PnL: -203621.40$
+Total Transaction: 828
+Win Rate: 13.4% (21/157)
+Total PnL: -248388.42$
 
 Processing wallet (group 26): 
 stdout: Processing wallet address: undefined

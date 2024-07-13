@@ -55,6 +55,8 @@ app.get("/get-final-csv", (req, res) => {
       .on("end", () => {
         res.json(results);
       });
+  } else {
+    res.json({});
   }
 });
 
@@ -90,14 +92,7 @@ app.post("/win-rate", upload.single("file"), async (req, res) => {
   await master(io);
   console.log("Finished the master process");
 
-  res.download(filePath, "final.csv", (err) => {
-    if (err) {
-      console.log(err);
-      res.status(500).send("Error downloading file");
-    } else {
-      console.log("File downloaded successfully");
-    }
-  });
+  res.send("Processed all wallets");
 });
 
 app.listen(port, () => {

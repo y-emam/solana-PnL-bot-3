@@ -6,14 +6,14 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720820820,
       token_amount: 12993143.35288,
       amount: 0.847581236,
-      usdBalance: 139.96627406471057,
+      usdBalance: 146.4644208063288,
       sp: 1
     },
     {
       timestamp: 1720819500,
       token_amount: 12993143.35288,
       amount: 5,
-      usdBalance: 825.6805844667765,
+      usdBalance: 864.0140589799985,
       sp: -1
     }
   ],
@@ -22,7 +22,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720815000,
       token_amount: 14583356.197733,
       amount: 3.515350106,
-      usdBalance: 580.5112660254849,
+      usdBalance: 607.4623827641656,
       sp: 1
     }
   ],
@@ -31,14 +31,14 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720814220,
       token_amount: 9990914.189521,
       amount: 1.58120698,
-      usdBalance: 261.1143806818693,
+      usdBalance: 273.2370121754611,
       sp: 1
     },
     {
       timestamp: 1720813380,
       token_amount: 9990914.189521,
       amount: 5,
-      usdBalance: 825.6805844667765,
+      usdBalance: 864.0140589799985,
       sp: -1
     }
   ],
@@ -47,21 +47,21 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720799580,
       token_amount: 6942383.275277,
       amount: 4.859228076,
-      usdBalance: 802.43405556981,
+      usdBalance: 839.6882746908657,
       sp: 1
     },
     {
       timestamp: 1720799460,
       token_amount: 6942383.275277,
       amount: 3.886054985,
-      usdBalance: 641.7280302569661,
+      usdBalance: 671.5212282018614,
       sp: 1
     },
     {
       timestamp: 1720799280,
       token_amount: 13884766.550554,
       amount: 4,
-      usdBalance: 660.5444675734212,
+      usdBalance: 691.2112471839988,
       sp: -1
     }
   ],
@@ -70,28 +70,28 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720766280,
       token_amount: 5852866.724802,
       amount: 0.952600188,
-      usdBalance: 157.30869599820025,
+      usdBalance: 164.61199100379793,
       sp: 1
     },
     {
       timestamp: 1720765620,
       token_amount: 5852866.724802,
       amount: 4,
-      usdBalance: 660.5444675734212,
+      usdBalance: 691.2112471839988,
       sp: -1
     },
     {
       timestamp: 1720765560,
       token_amount: 5205397.768903,
       amount: 2.702440049,
-      usdBalance: 446.2704558289488,
+      usdBalance: 466.9892391773192,
       sp: 1
     },
     {
       timestamp: 1720765320,
       token_amount: 5205397.768903,
       amount: 3,
-      usdBalance: 495.40835068006595,
+      usdBalance: 518.4084353879991,
       sp: -1
     }
   ],
@@ -100,14 +100,14 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720760160,
       token_amount: 16217334.697202,
       amount: 2.98240774,
-      usdBalance: 492.50323317628767,
+      usdBalance: 515.3684433941528,
       sp: 1
     },
     {
       timestamp: 1720759620,
       token_amount: 16217334.697202,
       amount: 5,
-      usdBalance: 825.6805844667765,
+      usdBalance: 864.0140589799985,
       sp: -1
     }
   ],
@@ -116,7 +116,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720746540,
       token_amount: 33259593.286155,
       amount: 1.388932929,
-      usdBalance: 229.36299052037438,
+      usdBalance: 240.01151552725364,
       sp: 1
     }
   ],
@@ -125,35 +125,35 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720746000,
       token_amount: 3600527.040027,
       amount: 1.717719739,
-      usdBalance: 283.6575676095278,
+      usdBalance: 296.82680077669073,
       sp: 1
     },
     {
       timestamp: 1720743060,
       token_amount: 3600527.040027,
       amount: 5.671320864,
-      usdBalance: 936.5399051372289,
+      usdBalance: 980.0201918965184,
       sp: 1
     },
     {
       timestamp: 1720742940,
       token_amount: 2400351.360018,
       amount: 3.947271828,
-      usdBalance: 651.8371419984562,
+      usdBalance: 682.0996708015357,
       sp: 1
     },
     {
       timestamp: 1720742760,
       token_amount: 3200468.480023,
       amount: 3.883720379,
-      usdBalance: 641.3425024876502,
+      usdBalance: 671.1178017206256,
       sp: 1
     },
     {
       timestamp: 1720742460,
       token_amount: 12801873.920095,
       amount: 6,
-      usdBalance: 990.8167013601319,
+      usdBalance: 1036.8168707759983,
       sp: -1
     }
   ],
@@ -162,14 +162,14 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720741800,
       token_amount: 13944952.884574,
       amount: 2.487969817,
-      usdBalance: 410.8536745272518,
+      usdBalance: 429.92818004117885,
       sp: 1
     },
     {
       timestamp: 1720741680,
       token_amount: 13944952.884574,
       amount: 4,
-      usdBalance: 660.5444675734212,
+      usdBalance: 691.2112471839988,
       sp: -1
     }
   ],
@@ -178,21 +178,21 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720731840,
       token_amount: 2292228.864615,
       amount: 5.8813496,
-      usdBalance: 971.2232350362885,
+      usdBalance: 1016.3137480352782,
       sp: 1
     },
     {
       timestamp: 1720731540,
       token_amount: 2292228.864614,
       amount: 6.627515891,
-      usdBalance: 1094.4422388887458,
+      usdBalance: 1145.2533811874703,
       sp: 1
     },
     {
       timestamp: 1720731000,
       token_amount: 4584457.729229,
       amount: 10,
-      usdBalance: 1651.361168933553,
+      usdBalance: 1728.028117959997,
       sp: -1
     }
   ],
@@ -201,14 +201,14 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720731360,
       token_amount: 21185571.708155,
       amount: 1.015410378,
-      usdBalance: 167.6809268761341,
+      usdBalance: 175.4657684452389,
       sp: 1
     },
     {
       timestamp: 1720730160,
       token_amount: 21185571.708155,
       amount: 4,
-      usdBalance: 660.5444675734212,
+      usdBalance: 691.2112471839988,
       sp: -1
     }
   ],
@@ -217,7 +217,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       timestamp: 1720727400,
       token_amount: 15015651.690689,
       amount: 2.506704683,
-      usdBalance: 413.9474775490092,
+      usdBalance: 433.1656175646001,
       sp: 1
     },
     {
@@ -1807,13 +1807,6 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       sp: 1
     },
     {
-      timestamp: 1718838900,
-      token_amount: 9904374.760789,
-      amount: 7.996735786,
-      usdBalance: 1083.0449025675591,
-      sp: 1
-    },
-    {
       timestamp: 1718832480,
       token_amount: 4729033.383572,
       amount: 1,
@@ -2287,13 +2280,6 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       amount: 9.453099688,
       usdBalance: 1373.1441847591261,
       sp: 1
-    },
-    {
-      timestamp: 1718495160,
-      token_amount: 13080020.095306,
-      amount: 10,
-      usdBalance: 1452.6704057711981,
-      sp: -1
     }
   ],
   SPANDA: [
@@ -2828,23 +2814,9 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
       amount: 5.391780246,
       usdBalance: 829.2498412132438,
       sp: 1
-    },
-    {
-      timestamp: 1718237820,
-      token_amount: 14259287.661434,
-      amount: 5,
-      usdBalance: 769.9586860527556,
-      sp: -1
     }
   ],
   DUSTY: [
-    {
-      timestamp: 1718236200,
-      token_amount: 3938521.131531,
-      amount: 0.796475415,
-      usdBalance: 123.34294152189635,
-      sp: 1
-    },
     {
       timestamp: 1718235600,
       token_amount: 3938521.131531,
@@ -2975,7 +2947,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   KING: 180.71411428534577,
   PAGER: 219.8639490217879,
   POGBY: -611.2068232403674,
-  nomnom: 2716.9107710301937,
+  nomnom: 1633.8658684626346,
   CHEESE: -0.796109177604194,
   ok: -108.24308736825259,
   NIGGA: -1939.3024768212692,
@@ -2999,7 +2971,7 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   MEEMI: 1701.5432119722782,
   RETODD: -66.45918009357808,
   Deadass: 88.34445905476207,
-  ZOOM: -98.1555307143575,
+  ZOOM: 825.4301633279531,
   SPANDA: 461.8529987383915,
   WUDS: -346.1443568742538,
   Groupie: -725.3098312699617,
@@ -3021,13 +2993,13 @@ stdout: Processing wallet address: 5z6kaZ5Ekq8PXoTZ3TBueETUPDF8dGy9Le3huRCHAjkD
   SOLANA: -50.17108186929556,
   LUCIFER: -753.4783646579298,
   WIFMOM: -80.76479312768686,
-  CULT: 859.0083067586095,
-  DUSTY: 2274.7298476010474,
+  CULT: 972.8777650873587,
+  DUSTY: 2151.3869060791512,
   SISTER: -652.0892741371301
 }
-Total Transaction: 369
-Win Rate: 26.0% (38/146)
-Total PnL: 37164.37$
+Total Transaction: 365
+Win Rate: 26.7% (39/146)
+Total PnL: 36995.44$
 
 Processing wallet (group 28): 
 stdout: Processing wallet address: undefined

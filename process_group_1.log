@@ -93,6 +93,13 @@ No more transactions available.
       sp: -1
     },
     {
+      timestamp: 1720235820,
+      token_amount: 2001089.695712,
+      amount: 0.5,
+      usdBalance: 66.97417972637814,
+      sp: -1
+    },
+    {
       timestamp: 1720232580,
       token_amount: 7386233.032871,
       amount: 1.5,
@@ -1199,6 +1206,13 @@ No more transactions available.
       sp: 1
     },
     {
+      timestamp: 1719368160,
+      token_amount: 3849286.5,
+      amount: 1.097589902,
+      usdBalance: 153.79528759392926,
+      sp: 1
+    },
+    {
       timestamp: 1719367320,
       token_amount: 3849286.5,
       amount: 1.372077757,
@@ -1291,7 +1305,7 @@ No more transactions available.
   APEPE: 247.35234111154395,
   omw: 643.8280325247487,
   SCOOBY: 561.9242638744823,
-  RODDY: -725.0313781249044,
+  RODDY: -667.4421511928749,
   '$CAPO': 25.432505752691583,
   SAGE: -107.84086513429432,
   DRAGON: 451.475522879448,
@@ -1340,15 +1354,15 @@ No more transactions available.
   FREDO: 131.2004422520271,
   Broken: 87.87582792374336,
   Coke: 160.14666672357026,
-  BAJA: 758.7562583822867,
+  BAJA: 912.551545976216,
   LOST: 76.78758785775767,
   BEAN: -24.06216915795845,
   HEIST: -135.55670593646008,
   UP: 455.70631695901864
 }
-Total Transaction: 165
+Total Transaction: 167
 Win Rate: 6.8% (4/59)
-Total PnL: 4494.71$
+Total PnL: 4706.10$
 
 Processing wallet (group 1): 
 stdout: Processing wallet address: undefined
