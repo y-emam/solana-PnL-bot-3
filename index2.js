@@ -766,6 +766,7 @@ async function main(wallet) {
     totalPnL,
     totalCount: total_count,
     final_ledger,
+    ledger,
   };
 }
 

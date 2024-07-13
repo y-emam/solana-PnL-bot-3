@@ -8,7 +8,7 @@ form.addEventListener("submit", async (e) => {
   formData.append("file", file);
 
   try {
-    const response = await fetch("/win-rate", {
+    await fetch("/win-rate", {
       method: "POST",
       body: formData,
     })

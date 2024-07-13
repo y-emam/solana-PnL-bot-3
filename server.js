@@ -23,9 +23,21 @@ app.get("/wallet", (req, res) => {
 
 app.post("/wallet", async (req, res) => {
   const wallet = req.body.wallet;
-  const data = await main(wallet);
+  await main(wallet);
 
-  res.send(data);
+  const filePath = path.join(__dirname, "grouped_transactions.csv");
+  if (fs.existsSync(filePath)) {
+    res.download(filePath, "grouped_transactions.csv", (err) => {
+      if (err) {
+        console.log(err);
+        res.status(500).send("Error downloading file");
+      } else {
+        console.log("File downloaded successfully");
+      }
+    });
+  } else {
+    res.status(500).send("Error file not found");
+  }
 });
 
 app.get("/show-final-csv", (req, res) => {
