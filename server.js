@@ -62,14 +62,6 @@ const storage = multer.diskStorage({
 // Create multer instance with specified storage options
 const upload = multer({ storage: storage });
 
-// io.on("connection", (socket) => {
-//   console.log("A user connected");
-//   // Optionally, you can handle disconnect event
-//   socket.on("disconnect", () => {
-//     console.log("User disconnected");
-//   });
-// });
-
 app.post("/win-rate", upload.single("file"), async (req, res) => {
   // get csv file from front
   if (!req.file) {
@@ -95,38 +87,6 @@ app.post("/win-rate", upload.single("file"), async (req, res) => {
     }
   });
 });
-
-// io.on("connection", (socket) => {
-//   socket.on("win-rate", async () => {
-//     // Replace 'upload.single("file")' with your actual file handling logic if necessary
-
-//     // Example: handling file upload
-//     const filePath = path.join(__dirname, "final.csv");
-
-//     // Simulate file upload completion
-//     setTimeout(async () => {
-//       // Remove existing file if any
-//       if (fs.existsSync(filePath)) {
-//         fs.unlinkSync(filePath);
-//       }
-
-//       // Call master_process main
-//       console.log("Started the master process");
-//       await master(io); // Assuming 'master' function emits updates via Socket.IO
-
-//       console.log("Finished the master process");
-
-//       // Emit event to notify client that processing is complete
-//       socket.emit("win-rate-complete");
-
-//       // Download file to client
-//       socket.emit("file-ready", filePath); // Send file path to client
-//     }, 2000); // Simulated delay to mimic processing time
-
-//     // Respond to the client that request has been received
-//     socket.emit("request-received", { message: "File upload in progress..." });
-//   });
-// });
 
 app.listen(port, () => {
   console.log(`Server is running at http://localhost:${port}`);
