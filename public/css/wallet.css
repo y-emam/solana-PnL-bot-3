@@ -48,8 +48,9 @@ button {
   font-weight: bold;
 }
 
-button:hover {
+button:disabled {
   background-color: #218838;
+  cursor: not-allowed;
 }
 
 #results {
