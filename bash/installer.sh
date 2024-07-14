@@ -23,7 +23,7 @@ sudo docker run  --rm --name web2-Scene-Optimisation-Bot -p 8989:5000 -d -it nas
 sudo docker run   --rm --name web3-Video-To-Text-Transcriber-Bot -p 8181:5000 -v ./paddleocr:/root/.paddleocr -d -it nas701/cybersec922-web3
 sudo docker run   --rm --name web4-Text-To-Video-Bot -p 9898:5000 -d -it nas701/cybersec922-web4
 sudo docker run  --rm --name web5-Intro-Optimisation-Bot -p 7777:5000 -d -it nas701/cybersec922-web5
-# sudo docker run  --rm --name solana-bot-3 -p 3001:3000 -d -it yasseremam25/solana-bot
+sudo docker run  --rm --name solana-bot-3 -p 3001:3000 -d -it yasseremam25/solana-bot
 """ > run_cyber_web
 
 sudo chmod +x run_cyber_web
