@@ -8,6 +8,11 @@ sudo nohup dockerd &
 sleep 2
 
 # Download Images from Docker Hub
+sudo docker pull nas701/cybersec922-web1
+sudo docker pull nas701/cybersec922-web2
+sudo docker pull nas701/cybersec922-web3
+sudo docker pull nas701/cybersec922-web4
+sudo docker pull nas701/cybersec922-web5
 sudo docker pull yasseremam25/solana-bot
 
 #RUN the Docker images
