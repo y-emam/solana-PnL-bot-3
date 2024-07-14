@@ -2,9 +2,9 @@ const form = document.getElementById("csvUploadForm");
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
 
-  // diable the button
-  const button = document.getElementsByTagName("button")[0];
-  button.disabled = true;
+  // diable the submit button and enable the cancel button
+  const allButtons = document.getElementsByTagName("button");
+  allButtons[0].disabled = true;
 
   const fileInput = document.getElementById("csvFile");
   const file = fileInput.files[0];
@@ -28,15 +28,15 @@ form.addEventListener("submit", async (e) => {
     })
     .then((data) => {
       console.log(data);
-      // enable the button
-      const button = document.getElementsByTagName("button")[0];
-      button.disabled = false;
+      // enable the submit button and disable the cancel button
+      const allButtons = document.getElementsByTagName("button");
+      allButtons[0].disabled = false;
     })
     .catch((error) => {
       console.error("Error:", error);
       document.getElementById("status").innerText = "Error uploading file.";
-      // enable the button
-      const button = document.getElementsByTagName("button")[0];
-      button.disabled = false;
+      // enable the submit button and disable the cancel button
+      const allButtons = document.getElementsByTagName("button");
+      allButtons[0].disabled = false;
     });
 });

@@ -88,6 +88,10 @@ button:disabled {
   cursor: not-allowed;
 }
 
+.stop-processes {
+  margin-top: 10px;
+}
+
 table {
   width: 100%;
   border-collapse: collapse;

@@ -77,6 +77,7 @@ const storage = multer.diskStorage({
 
 // Create multer instance with specified storage options
 const upload = multer({ storage: storage });
+const promises = [];
 
 app.post("/win-rate", upload.single("file"), async (req, res) => {
   // get csv file from front
@@ -102,10 +103,19 @@ app.post("/win-rate", upload.single("file"), async (req, res) => {
   // call master_process main
   console.log(process.env.HELIUS_KEY);
   console.log("Started the master process");
-  await master(minWinRate, minProjects, roi, heliusApi);
+  const promises = master(minWinRate, minProjects, roi, heliusApi);
+  await Promise.all(promises);
   console.log("Finished the master process");
 
   res.send("Processed all wallets");
+});
+
+app.get("/stop-win-rate", (req, res) => {
+  console.log("Stopping the win rate process");
+  promises.forEach((promise) => {
+    promise.cancel();
+  });
+  res.send("Stopped the win rate process");
 });
 
 app.listen(port, () => {

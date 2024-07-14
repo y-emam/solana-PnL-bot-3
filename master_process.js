@@ -30,12 +30,12 @@ const runGroupScript = async (i) => {
   }
 };
 
-const master = async () => {
+const master = () => {
   const promises = [];
   for (let i = 0; i < totalGroups; i++) {
     promises.push(runGroupScript(i));
   }
-  await Promise.all(promises);
+  return promises;
 };
 
 // const master = () => {
