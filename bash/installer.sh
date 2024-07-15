@@ -9,11 +9,13 @@ sleep 2
 
 # Download Images from Docker Hub
 sudo docker pull yasseremam25/solana-bot
+sudo docker pull yasseremam25/stock-video-pexels
 
 #RUN the Docker images
 
 sudo echo """
 sudo docker run  --rm --name solana-bot3 -p 3001:3000 -d -it yasseremam25/solana-bot
+sudo docker run  --rm --name stock-video-pexels -p 3002:3000 -d -it yasseremam25/stock-video-pexels
 """ > run_cyber_web
 
 sudo chmod +x run_cyber_web
